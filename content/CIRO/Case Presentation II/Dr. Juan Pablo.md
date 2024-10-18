@@ -133,3 +133,101 @@ Mucositis: help patients with pain
 
 > [!faq] Most common
 > Lateral border of tongue: most common site of cancer in the oral cavity 
+
+
+Pierr-Robbins syndrome 
+Emergency: take tongue out of mouth and open airways
+
+Dental Malformation 
+
+Dentinogenesis 
+- etiology: genetic; mutation in gene for Type 1 [[Collagen Fiber]] 
+- primary teeth: 14th week of fetal development
+- permanent teeth: 3 months old 
+- by odontoblasts; outside to inwards; begins with mantle dentin 
+- odontoblasts secrete predentin, fibroblasts make korff's fibers - thick collagen fibers 
+- odontoblasts and fibroblasts grow towards the center of the tooth by growing a protrusion (odontogenic processes) that secrete calcium hydroxyapatite
+- Mantle dentin 
+- after mantle dentin, odontoblasts continue building primary dentin 
+primary dentin - more mineral content, less collagen; thickest layer 
+Secondary dentin - resembles primary dentin but forms after root formation; occurs at slow rate and throughout life eto maintain the tooth strength 
+Predentin - borders pulp; a layer of organic matrix that hasn't been mineralized; once mineralized become secondary dentin 
+Dentin continunes growing regenerating and repairing itself; 
+Tertiary dentin - made by odontoblasts who move to the site of injury and produce this band-aid like dentin 
+osmosis video on odontogenesis
+
+Dentinogenesis imperfecta
+
+Clinical exam: teeth appear amber, brown/blue, or opalescent brown , blue sclera
+radiographically: crown is bulbous due to constricted DEJ; , small or obliterated pulp chambers, narrrow roots 
+
+DD:
+amelogenesis imperfecta
+etc.
+*
+*
+*
+
+Type II - has greater pulpal tissue due to greater pulpal tissue; high frequency of pulp exposure
+
+Amelogenesis Imperfecta
+- genetic 
+
+Type 1: 
+typ II : hypomature AI
+type III: hypomineralized amelgonesis imperfecta
+
+Fluorisis 
+Trendley Dean - Code 1-5
+
+Fluoride Supplements 
+0.7mg/L optimal amount of flouoride in water 
+Antivet - enamel microabrasion 
+
+Prevention: 
+Salamanca 
+Salcatecas
+San Luis Potosi 
+Jalisco 
+
+Hypoplasia - enamel deficient in quantity 
+acquired - bacteria, virus, fever, etc 
+Hereditary causes: 
+enamel hypoplasia
+
+fluoxy lil - 
+MI paste - flouride varnish treatment; for patients with allergic to the protein you can use the other kind 
+Treatment: for hypoplastic teeth: sealants, glass ionomer, or dental crowns (SSC or otherwise)
+
+Hypomineralization 
+- decrease in quality of enamel 
+
+Duraphat - fluoride varnish 
+ikon 
+
+Gardner's syndrome
+Prevention, Shock Therapy: alternate seessions with chlorhexidine varnish and fluoride varnish 4 times 
+
+# Hepatitis 
+
+- very aggressive in babies so vaccination is important 
+
+Medications: pegylated interferon and ribavirin 200mg are specific to Hepatitis C (both or one?... check later)
+
+Anomalies of teeth shape and size
+Gemination & fusion
+- most frequent dvelopmental anomalies in primary dentition 
+- fusion - union between the anemel or both dentin and enamel 
+- gemination - comes from single tooth bud then divides
+- affects primary more than permanent teeth 
+- affects anterior mostly; rare in posterior 
+
+Dens in dente 
+incidence: most common in permanent maxillary lateral incisors
+
+Taurodontism
+- failure of hertwig's epithelial rooth sheath to...
+
+Epstein Pearls 
+- small, harmless white or yellow nodules that may appear along your newborn baby's gums or on the roof of their mouth 
+- made of keratin
