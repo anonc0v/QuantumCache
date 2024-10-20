@@ -45,5 +45,5 @@ export {
   NotFound,
   Breadcrumbs,
   Comments,
-  OnlyFor
+  OnlyFor,
 }
