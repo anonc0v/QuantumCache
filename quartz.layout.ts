@@ -29,8 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-  ],
-  afterbody: [ Component.OnlyFor(), Component.RecentNotes(),
+    Component.OnlyFor(), 
   ],
   left: [
     Component.PageTitle(),
