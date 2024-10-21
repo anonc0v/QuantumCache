@@ -1,5 +1,14 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+const homepageTitle = "Lomana's archive"
+const recentNotesConfig = { 
+  showTags: false, 
+  title: "Recently edited notes:", 
+  showDate: true,
+  linkToMore: "meta/" + modifiedListTitle as SimpleSlug,
+  excludeTags: ["recents-exclude"],
+  filter: (f: QuartzPluginData) => !f.slug!.startsWith("tags/")
+}
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -7,8 +16,8 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.OnlyFor(
-      { titles: ["Lomana's Notes"] },
-      Component.RecentNotes({ showTags: false, title: "Recently edited notes:", showDate: true })
+      { titles: [homepageTitle, mapTitle] },
+      Component.RecentNotes(recentNotesConfig)
     ), ],
     // Component.OnlyFor(
     //   {titles: ["Eilleen's (online!) Everything Notebook"] }, 
