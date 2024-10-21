@@ -11,7 +11,9 @@ const recentNotesConfig = {
 }
 const modifiedListTitle = "All-files-chronologically-modified"
 const mapTitle = "Map"
-
+const backlinksConfig = {
+  excludeTags: ["backlinks-exclude"]
+}
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -40,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.OnlyFor(), 
+    Component.OnlyFor({titles: [mapTitle]}, Component.Explorer(explorerConfig))
   ],
   left: [
     Component.PageTitle(),
