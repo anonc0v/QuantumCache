@@ -10,6 +10,8 @@ const recentNotesConfig = {
   filter: (f: QuartzPluginData) => !f.slug!.startsWith("tags/")
 }
 const modifiedListTitle = "All-files-chronologically-modified"
+const mapTitle = "Map"
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
