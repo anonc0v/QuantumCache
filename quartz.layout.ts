@@ -5,7 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
+  afterBody: 
     Component.OnlyFor(
       { titles: ["Lomana's Notes"] },
       Component.RecentNotes({ showTags: false, title: "Recently edited notes:", showDate: true })
@@ -14,7 +14,6 @@ export const sharedPageComponents: SharedLayout = {
     //   {titles: ["Eilleen's (online!) Everything Notebook"] }, 
     //   Component.MobileOnly(Component.Backlinks())
     // ) this part is to show example of a second component working w backlinks too
-  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
