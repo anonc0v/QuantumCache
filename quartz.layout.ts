@@ -32,8 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   afterbody: [ Component.RecentNotes(),
-
-  ]
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
