@@ -9,7 +9,7 @@ const recentNotesConfig = {
   excludeTags: ["recents-exclude"],
   filter: (f: QuartzPluginData) => !f.slug!.startsWith("tags/")
 }
-
+const modifiedListTitle = "All-files-chronologically-modified"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
