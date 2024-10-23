@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Test",
-    pageTitleSuffix: Lomana,  
+    pageTitleSuffix: "Lomana",  
     enableSPA: true,
     enablePopovers: true,
     analytics: {
