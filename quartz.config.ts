@@ -8,7 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "ᕙ(⇀‸↼‶)ᕗ",
+    pageTitle: ᕙ(⇀‸↼‶)ᕗ,
+    pageTitleSuffix: Lomana,
     enableSPA: true,
     enablePopovers: true,
     analytics: {
