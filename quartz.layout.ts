@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
-  pageBody: [ 
+  afterBody: [ 
     Component.OnlyFor(
       { titles: ["Lomana"] },
       Component.RecentNotes({ showTags: false, title: "Recently edited notes:", showDate: true })
