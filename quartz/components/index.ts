@@ -21,6 +21,8 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import OnlyFor from "./OnlyFor"
+import Row from "./_Row"
+import Map from "./_Map"
 
 export {
   ArticleTitle,
@@ -46,4 +48,6 @@ export {
   Breadcrumbs,
   Comments,
   OnlyFor,
+  Row,
+  Map,
 }
