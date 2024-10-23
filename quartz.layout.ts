@@ -20,7 +20,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.OnlyFor(
-      { titles: ["(⌐■_■)"] },
+      { titles: ["Lomana"] },
       Component.RecentNotes({ showTags: false, title: "Recently edited notes:", showDate: true })
     ), 
     // Component.OnlyFor(
