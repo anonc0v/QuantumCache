@@ -19,10 +19,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.OnlyFor(
-      { titles: ["Lomana"] },
-      Component.RecentNotes({ showTags: false, title: "Recently edited notes:", showDate: true })
-    ), 
+   
     // Component.OnlyFor(
     //   {titles: ["Eilleen's (online!) Everything Notebook"] }, 
     //   Component.MobileOnly(Component.Backlinks())
@@ -43,6 +40,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+  ],
+  pageBody: [ 
+    Component.OnlyFor(
+      { titles: ["Lomana"] },
+      Component.RecentNotes({ showTags: false, title: "Recently edited notes:", showDate: true })
+    ), 
   ],
   left: [
     Component.PageTitle(),
