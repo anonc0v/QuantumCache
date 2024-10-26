@@ -55,9 +55,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
   ],
   afterBody: [ 
+    Component.RecentNotes(), 
     Component.Backlinks(),
     Component.Graph(),
-    Component.RecentNotes(), 
   ],
 }
 
