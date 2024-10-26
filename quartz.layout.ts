@@ -53,6 +53,7 @@ export const defaultContentPageLayout: PageLayout = {
       Component.Search(),
     ]),
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.RecentNotes(), 
   ],
   afterBody: [ 
     Component.RecentNotes(), 
