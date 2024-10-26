@@ -41,12 +41,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
-  afterBody: [ 
-    Component.OnlyFor(
-      { titles: ["Lomana"] },
-      Component.RecentNotes({ showTags: false, title: "Recently edited notes:", showDate: true })
-    ), 
-  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -58,11 +52,12 @@ export const defaultContentPageLayout: PageLayout = {
       Component.Darkmode(),
       Component.Search(),
     ]),
-    Component.Graph(),
-    Component.RecentNotes(),
     Component.DesktopOnly(Component.TableOfContents()),
+  ],
+  afterBody: [ 
     Component.Backlinks(),
-    
+    Component.Graph(),
+    Component.RecentNotes(), 
   ],
 }
 
