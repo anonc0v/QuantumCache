@@ -52,8 +52,7 @@ export const defaultContentPageLayout: PageLayout = {
       Component.Darkmode(),
       Component.Search(),
     ]),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.RecentNotes(), 
+    Component.DesktopOnly(Component.TableOfContents()), 
   ],
   afterBody: [ 
     Component.RecentNotes(), 
