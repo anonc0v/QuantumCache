@@ -56,7 +56,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   afterBody: [ 
     Component.RecentNotes(), 
-    <div><div>
     Component.Backlinks(),
     Component.Graph(),
   ],
