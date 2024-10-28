@@ -1,12 +1,12 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
- 
+
 interface OnlyForOptions {
   /**
    * The titles to look for
    */
   titles: string[];
 }
- 
+
 export default ((opts?: Partial<OnlyForOptions>, component?: QuartzComponent) => {
   if (component) {
     const Component = component
@@ -15,7 +15,7 @@ export default ((opts?: Partial<OnlyForOptions>, component?: QuartzComponent) =>
         <Component {...props} /> :
         <></>;
     }
- 
+
     OnlyFor.displayName = component.displayName
     OnlyFor.afterDOMLoaded = component.afterDOMLoaded
     OnlyFor.beforeDOMLoaded = component.beforeDOMLoaded
