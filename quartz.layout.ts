@@ -69,8 +69,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.OnlyFor(
       { titles: [homepageTitle, mapTitle] },
       Component.RecentNotes(recentNotesConfig)
-    ), 
-    Component.RecentNotes(),
+    ),
     Component.Backlinks(),
     Component.Graph(),
   ],
