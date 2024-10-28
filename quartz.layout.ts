@@ -16,6 +16,9 @@ const recentNotesConfig = {
   excludeTags: ["recents-exclude"],
   filter: (f: QuartzPluginData) => !f.slug!.startsWith("tags/")
 }
+const githubSourceConfig = { 
+  repoLink: "https://github.com/anonc0v/QuantumCache"
+}
 const backlinksConfig = {
   excludeTags: ["backlinks-exclude"]
 }
@@ -52,6 +55,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.Explorer()),
+    Component.GithubSource(githubSourceConfig),
   ],
   right: [
     Component.Row([

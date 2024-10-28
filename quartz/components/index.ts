@@ -23,6 +23,7 @@ import Comments from "./Comments"
 import OnlyFor from "./OnlyFor"
 import Row from "./_Row"
 import Map from "./_Map"
+import GithubSource from "./GithubSource"
 
 export {
   ArticleTitle,
@@ -50,4 +51,5 @@ export {
   OnlyFor,
   Row,
   Map,
+  GithubSource
 }
