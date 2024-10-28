@@ -55,7 +55,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()), 
   ],
   afterBody: [ 
-    Component.RecentNotes(), 
+    Component.OnlyFor(
+      { titles: ["Lomana's Notes"] },
+      Component.RecentNotes({ showTags: false, title: "Recently edited notes:", showDate: true })
+    ), 
     Component.Backlinks(),
     Component.Graph(),
   ],
