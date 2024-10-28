@@ -1,6 +1,8 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 const homepageTitle = "Lomana's archive"
+const modifiedListTitle = "All-files-chronologically-modified"
+const mapTitle = "Map"
 const recentNotesConfig = { 
   showTags: false, 
   title: "Recently edited notes:", 
@@ -9,9 +11,6 @@ const recentNotesConfig = {
   excludeTags: ["recents-exclude"],
   filter: (f: QuartzPluginData) => !f.slug!.startsWith("tags/")
 }
-const modifiedListTitle = "All-files-chronologically-modified"
-const mapTitle = "Map"
-
 const backlinksConfig = {
   excludeTags: ["backlinks-exclude"]
 }
