@@ -3,6 +3,7 @@ import * as Component from "./quartz/components"
 const homepageTitle = "Lomana's archive"
 const modifiedListTitle = "All-files-chronologically-modified"
 const mapTitle = "Map"
+import { SimpleSlug } from "./quartz/util/path";
 const recentNotesConfig = { 
   showTags: false, 
   title: "Recently edited notes:", 
@@ -60,7 +61,7 @@ export const defaultContentPageLayout: PageLayout = {
       { titles: [homepageTitle, mapTitle] },
       Component.RecentNotes(recentNotesConfig)
     ), 
-    Component.RecentNotes(),  
+    
     Component.Backlinks(),
     Component.Graph(),
   ],
