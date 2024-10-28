@@ -3,6 +3,10 @@ import * as Component from "./quartz/components"
 const homepageTitle = "Lomana's archive"
 const modifiedListTitle = "All-files-chronologically-modified"
 const mapTitle = "Map"
+const explorerConfig = {
+  filterFn: (node: FileNode) => node.name !== "tags" &&
+  !(node.file?.frontmatter?.tags?.includes("explorer-exclude") === true)
+}
 import { SimpleSlug } from "./quartz/util/path";
 const recentNotesConfig = { 
   showTags: false, 
@@ -42,6 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.OnlyFor({titles: [mapTitle]}, Component.Explorer(explorerConfig))
   ],
   left: [
     Component.PageTitle(),
