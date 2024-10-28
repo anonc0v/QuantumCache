@@ -1,6 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-const homepageTitle = "Lomanas archive"
+const homepageTitle = "Lomana's archive"
 const recentNotesConfig = { 
   showTags: false, 
   title: "Recently edited notes:", 
@@ -56,8 +56,8 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   afterBody: [ 
     Component.OnlyFor(
-      { titles: ["Lomana's Notes"] },
-      Component.RecentNotes({ showTags: false, title: "Recently edited notes:", showDate: true })
+      { titles: [homepageTitle, mapTitle] },
+      Component.RecentNotes(recentNotesConfig)
     ), 
     Component.Backlinks(),
     Component.Graph(),
