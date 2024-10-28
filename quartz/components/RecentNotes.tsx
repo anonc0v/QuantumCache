@@ -82,7 +82,7 @@ export default ((userOpts?: Partial<Options>) => {
                       </a>
                       {/* Changed showdate to optional + same row + faded a bit 7/10/24 */}
                       {opts.showDate && page.dates && (
-                        <span class="see-more"> ₊⊹⊹₊ <Date date={getDate(cfg, page)!} locale={cfg.locale} /></span>
+                        <span class="see-more"> ..... <Date date={getDate(cfg, page)!} locale={cfg.locale} /></span>
                         // <span style="opacity: 0.4">{" ₊⊹⊹₊ " + formatDate(page.dates.modified)}</span>
                       )}
                     </h4>
