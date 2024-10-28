@@ -13,16 +13,20 @@ interface Options {
   limit: number
   linkToMore: SimpleSlug | false
   showTags: boolean
+  showDate: boolean
   filter: (f: QuartzPluginData) => boolean
   sort: (f1: QuartzPluginData, f2: QuartzPluginData) => number
+  excludeTags: string[]
 }
 
 const defaultOptions = (cfg: GlobalConfiguration): Options => ({
   limit: 3,
   linkToMore: false,
   showTags: true,
+  showDate: true,
   filter: () => true,
   sort: byDateAndAlphabetical(cfg),
+  excludeTags: []
 })
 
 export default ((userOpts?: Partial<Options>) => {
