@@ -60,6 +60,7 @@ export const defaultContentPageLayout: PageLayout = {
       Component.RecentNotes(recentNotesConfig)
     ), 
     Component.RecentNotes(),  
+    Component.Spacer({ size: "20px" }),
     Component.Backlinks(),
     Component.Graph(),
   ],
