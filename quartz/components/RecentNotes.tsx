@@ -77,7 +77,7 @@ export default ((userOpts?: Partial<Options>) => {
                   <div class="desc">
                     {/* Changed heading size of each link 3->4 on 7/10/24 */}
                     <h4>
-                    ▣ <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                    ⛶ <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                         {title}
                       </a>
                       {/* Changed showdate to optional + same row + faded a bit 7/10/24 */}
