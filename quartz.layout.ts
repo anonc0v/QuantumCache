@@ -83,7 +83,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.OnlyFor({titles: [mapTitle]}, Component.Explorer(explorerConfig))
+   // Component.OnlyFor({titles: [mapTitle]}, Component.Explorer(explorerConfig))
   ],
   left: [
     Component.PageTitle(),
@@ -100,10 +100,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()), 
   ],
   afterBody: [ 
-    Component.OnlyFor(
-      { titles: [homepageTitle, mapTitle] },
-      Component.RecentNotes(recentNotesConfig)
-    ),
+    // Component.OnlyFor(
+   //   { titles: [homepageTitle, mapTitle] },
+   //   Component.RecentNotes(recentNotesConfig)
+   // ), 
+    Component.RecentNotes(),
     Component.Backlinks(),
     Component.Graph(),
   ],
