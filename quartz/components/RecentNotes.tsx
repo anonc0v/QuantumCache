@@ -2,7 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { FullSlug, SimpleSlug, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { byDateAndAlphabetical } from "./PageList"
-import style from "./styles/recentNotes.scss"
+import style from "./styles/RecentNotes.scss"
 import { Date, getDate, formatDate } from "./Date"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
@@ -77,12 +77,12 @@ export default ((userOpts?: Partial<Options>) => {
                   <div class="desc">
                     {/* Changed heading size of each link 3->4 on 7/10/24 */}
                     <h4>
-                      ✿ <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                    ‣ <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                         {title}
                       </a>
                       {/* Changed showdate to optional + same row + faded a bit 7/10/24 */}
                       {opts.showDate && page.dates && (
-                        <span class="see-more"> ₊⊹⊹₊ <Date date={getDate(cfg, page)!} locale={cfg.locale} /></span>
+                        <span class="see-more"> ..... <Date date={getDate(cfg, page)!} locale={cfg.locale} /></span>
                         // <span style="opacity: 0.4">{" ₊⊹⊹₊ " + formatDate(page.dates.modified)}</span>
                       )}
                     </h4>

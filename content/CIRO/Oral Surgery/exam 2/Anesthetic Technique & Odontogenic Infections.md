@@ -143,4 +143,3 @@ Buccal spaces
 - medial 
 
 Next lecture: severity of space infections 
-
