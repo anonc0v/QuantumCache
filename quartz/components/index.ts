@@ -24,6 +24,8 @@ import OnlyFor from "./OnlyFor"
 import Row from "./_Row"
 import Map from "./_Map"
 import GithubSource from "./GithubSource"
+import ComponentGroup from "./_componentGroup"
+import TableOfContents2 from "./_TableOfContents2"
 
 export {
   ArticleTitle,
@@ -36,6 +38,7 @@ export {
   ContentMeta,
   Spacer,
   TableOfContents,
+  TableOfContents2,
   Explorer,
   TagList,
   Graph,
@@ -51,5 +54,6 @@ export {
   OnlyFor,
   Row,
   Map,
-  GithubSource
+  GithubSource,
+  ComponentGroup,
 }
