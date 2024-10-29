@@ -2,7 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { FullSlug, SimpleSlug, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { byDateAndAlphabetical } from "./PageList"
-import style from "./styles/RecentNotes.scss"
+import style from "./styles/recentNotes.scss"
 import { Date, getDate, formatDate } from "./Date"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
@@ -44,8 +44,8 @@ export default ((userOpts?: Partial<Options>) => {
       <div class={classNames(displayClass, "recent-notes")}>
         <h3>{opts.title ?? i18n(cfg.locale).components.recentNotes.title} 
           <span class="see-more">
-            <span class="see-more"> </span>
-            <a href="https://github.com/anonc0v/QuantumCache/commits/v4/content?author=anonc0v" class="external">see history</a>
+            <span class="see-more">  </span>
+            <a href="https://github.com/anonc0v/QuantumCache" class="external">See History</a>
             <svg 
               class="external-icon"
               viewBox= "0 0 512 512"
@@ -83,7 +83,7 @@ export default ((userOpts?: Partial<Options>) => {
                       {/* Changed showdate to optional + same row + faded a bit 7/10/24 */}
                       {opts.showDate && page.dates && (
                         <span class="see-more"> ..... <Date date={getDate(cfg, page)!} locale={cfg.locale} /></span>
-                        // <span style="opacity: 0.4">{" ..... " + formatDate(page.dates.modified)}</span>
+                        // <span style="opacity: 0.4">{" ₊⊹⊹₊ " + formatDate(page.dates.modified)}</span>
                       )}
                     </h4>
                   </div>
