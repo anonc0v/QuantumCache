@@ -342,7 +342,7 @@ Dental Management
 	- patients taking digoxin: watch our for signs and symptoms of toxicity 
 	warfarin
 	- should have INR (within 24 hours of surgery)
-	- INR = 2-3 minot surgery can be performed without stopping coumadin 
+	- INR = 2-3 minor surgery can be performed without stopping coumadin 
 - pacemakers 
 	- antibiotic prophylaxis is not recommended 
 	- avoid use of electrosurgery and ultrasonic scaler 
