@@ -1,0 +1,165 @@
+---
+Status: 🟥🟨🟩
+Area: CIRO
+Subject: Prosthodontics II
+tags: 
+Exam: 1
+Exam Date: 
+Lecturer: Dr. Carlos Carlos Garcia
+---
+
+# Comprehensive Exam 
+# Adhesion
+
+|            | Inorganic Matter (%) | Organic Matter (%)                                                | Water (%) |
+| ---------- | -------------------- | ----------------------------------------------------------------- | --------- |
+| **Enamel** | 96%                  | 1%                                                                | 3%        |
+| **Dentin** | 70%                  | 20% (mostly type I collagen fibers, proteoglycans, glycoproteins) | 10-15%    |
+|            |                      |                                                                   |           |
+## Histological Considerations on Adhesion:
+
+- **Problem 1**: More water in dentin than enamel
+
+Near DEJ 
+- you might have some challenges to adhere with dentinoenamel junction 
+- how well do adhesive agents interact with collagen?
+- how well it penetrates and holds in those tubes
+
+- **Problem 2**: More water in deeper dentin than shallow dentin
+
+- near the pulp, there's more water, and more sensitivity
+WHY?
+- Dentinal tubule morphology 
+- WIDER near the pulp : diameter at pulp = 2-3 m; diameter at DEJ = 0.5 - 1 
+- MORE dentinal tubules per unit area near the pulp 
+- Near pulp: 45k per mm2  (DOUBLE)
+- DEJ: 20k per mm2   
+
+- **Problem 3:** Proteolytic enzymes embedded in Dentin
+### Adhesive Failure
+- due to degradation of collagen matrix by **Proteolytic enzymes** - MMPs (metalloproteinases), which are embedded within dentin and are activated by trauma due to handpiece, acid etching, etc. 
+
+#### Preventing Adhesive Failure
+Chlorhexidine - MMP Inhibitors 
+- Antimicrobial  
+- non-specific MMP inhibitor - increases the preservation of dentin adhesion strength 
+- Prevents proteolytic degradation through the immobilization of MMPs, **Increases adhesion longevity** 
+
+ **Solution** to problems 1, 2, and 3:
+ 1) Preserve the smear layer 2) Selective etching 3) Chlorhexidine 
+# Adhesive Resin Bonding Systems 
+Components
+1. Solvents/Primers
+		1. contain hydrophilic monomers to increase the wettability and infiltration of resins into the dentin 
+	- BisGMA - most common
+	- other examples: TEGMA, HEMA (less hydrophilic)
+	- Bifunctional monomers:
+		-10-MDP - used for zirconia; has a hydrophilic end (with the ethanol) and hydrophobic end (with the phosphate); very long chain so the hydrophilic and hydrophobic end are further away from each other than DPDM
+		-GPDM - shorter chain than 10-MDP; so the hydrophilic and hydrophobic ends are closer to each other, which isn't good 
+
+2. Adhesive (Bonding Agent)
+- contains
+	- Monomer (hydrophobic and hydrophilic), mainly methacrylates 
+	- Solvents: Water, ethanol and ketone 
+	- Photoinitiators: Canphorquinone, phenylpropandione, Luzerin, Ivocerin (Hydrophobic & Hydrophilic end)
+
+3. Photoinitiator 
+- Camphorquinone 
+- phenylpropandione 
+- Luzerin 
+- Lyocerin 
+
+# Classification of adhesive bonding systems 
+
+![[prostho classification adhesive systems.jpeg]]
+
+
+> [!success] Adhesive Bonding System highlights:
+> 1. gold-standard Etch and Rinse adhesive - **total etch** (4th generation)
+> 2. 6th generation - selective enamel E&R and SE Adhesives - **Selective-etch** ; on exam this is 2 step
+> 3. According to Smear layer:
+> - 4th and 5th - remove smear layers (these are for superficial cavities)
+> - 6th, 7th and 8th generations - keep smear layer 
+> - Universal - keep or remove 
+> - Clinical: in deep cavities, preserve the smear layer to avoid dental sensitivity 
+
+# Hydrodynamic theory
+Martin Brannstrom - change in pressure within dentinal tubules causes sensitivity/pain
+
+Dental sensitivity: (risk increases for DEEP CAVITIES)
+- hydrodynamic flow can occur by changes in: temperature, humidity, air pressure, osmotic pressure, as with cold foods and drinks 
+- Prevent sensitivity by 
+	- 1) CONTROLLING THE AIR; 
+	- overdrying causes extrusion of the odontoblastic processes; 
+	- GOAL: WET DENTIN concept: the primer mixes with **wet dentin (not overly wet) + exposed collagen fibers** instead of dry dentin + odontoblastic process 
+	- 2) PRESERVE the smear layer, which covers the dentinal tubules
+
+Immediate Dental sealiing (IDS)
+- the immediate application of a dentin-bonding agent after tooth presep and before impression taking:
+	- advantages:
+		- bacterial microleakage
+		- hypersensitivity 
+		- bonding quality 
+- steps: etching, chlorhexidine, primer, bonding, cure 
+
+Resin Coating - should only be 0.3mm to 1mm thick 
+can eliminate undercuts (otherwise you have to prep more to remove undercuts)
+- after applying the resin coating, you can do the final preparation; should NOT be on enamel 
+
+1. how deep is preparation? (adhesive system) (4th gen - total etch or 6th gen - selective-etch)
+2. how much remaining tooth structure do we have?  Preparation design
+3. am I going to do a direct or indirect restoration? (resin coating or ids) 
+4. which material should i use? (composite, lithium disilicate, zirconia)
+
+| **Indications**             | **Resin Coating**                              | **Immediate Dentin Sealing (IDS)**               |
+|-----------------------------|------------------------------------------------|-------------------------------------------------|
+| **Type of restoration**      | Indirect restorations                          | Indirect restorations                           |
+| **Cavity depth**             | Cavities more than 2mm                         | Conservative preparations                       |
+| **Material**                 | Uses flowable composite after application      | Do not use flowable composite                   |
+| **Layer thickness**          | 0.3mm to 1mm                                   | Limited space                                   |
+| **Preferred areas**          | More for posteriors                            | Veneers, minimally invasive crown prep          |
+| **Enamel**                   | Enamel must NOT be included                    | Enamel must NOT be included                     |
+# Margin Design (Onlay)
+
+![[Prostho Onlay Preparation.jpeg|300 ]]
+
+
+> [!important]  Capping Cusps (cutting cusps)
+**Nonworking cusps**
+ ≥ 2.5 mm cuspal thickness = keep the cusp
+ < 2.5 mm remove the cusp = cusp is undermined and may fracture
+ **Working cusps**
+ ≥ 3.0 mm = keep the cusp 
+ < 3 mm = remove the cusp 
+
+# Molar Hypomineralization (HM) 
+- “6-year molars and incisors” pattern
+- color
+	- between white, yellow and brown to large areas of surface breakup 
+	- Brown: greater susceptibility to fractures 
+	- if it is fractures it could be difficult to distinguish between enamel hypoplasia (edges of helath enamel lesion are rounded) 
+- reduction 5-40% mineral, therefore softer and more susceptible to wear
+- Demographics: Mexico: 35.4% prevalence of HM
+## Differential Diagnosis:
+	1) Enamel Hypoplasia - developmental defect of enamel **QUANTITY**
+	2) Dentin defect of systemic origin - e.g. dentinogenesis imperfecta
+
+--- 
+Treatment of HM
+1. prevention (early diagnosis)
+2. identification of caries factors; remineralization; oral hygiene 
+3. desensitization 
+
+- the success of this approach is unkown 
+- prevent caries depends on severity 
+- MI Paste
+---
+2. Restorative treatments 
+	1. resin or ceramic inlays
+	2. precise clinical delimitation of normal enamel 
+	3. ionomer patient with sensibility wait 6 months max. (then change for direct or indirect restoration) 
+	4. extensive and repetetive restorative treatment - due to weak adhesion (since there is less mineral)
+
+
+# References
+

@@ -8,10 +8,11 @@ Dentin
  - 20% organic (mostly type I collagen fibers, proteoglycans and glycoprotein)
  - 10-15% of water 
 
-Why important to know histology?
-Adhesive failures = degradation of collagen matrix by **Proteolytic enzymes***: MMP (metalloproteinases)
+> [!NOTE]Why is it important to know histology?
+> Adhesive failures = degradation of collagen matrix by **Proteolytic enzymes***: MMP (metalloproteinases)
 
-1. why is it important to know how much water the enamel or dentin has? 
+Why is it important to know how much water the enamel or dentin has? 
+- helps you decide which bonding system/protocol to use
 
 Dentinal tubule morphology 
 - WIDER near the pulp : diameter at pulp = 2-3 m; diameter at DEJ = 0.5 - 1 
@@ -332,7 +333,7 @@ Post:
 Ferrule Effect 
 - the maximum length of the build-up can only be x2 length of the ferrule (i.e. if the ferrule is 2mm then the maximum length of the buildup the total length of the buildup + ferrule can only be x2 the length of the ferrule)
 
-# impressions 
+# Impressions 
 - cannot do 2 step technique with custom tray 
 
 SMILE:
