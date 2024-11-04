@@ -211,7 +211,9 @@ Ferrule effect- needs 2-3mm
 - Rim-lock tray - 1-step, 2-step
 - Custom Tray - 1-step only
 
+![[Prostho 2step technique 1 1.jpg|300]]
 ## Classification of impression materials
+
 
 
 # References
