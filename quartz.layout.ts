@@ -104,7 +104,7 @@ export const defaultContentPageLayout: PageLayout = {
    //   { titles: [homepageTitle, mapTitle] },
    //   Component.RecentNotes(recentNotesConfig)
    // ), 
-    Component.RecentNotes(),
+    Component.RecentNotes(recentNotesConfig),
     Component.Backlinks(),
     Component.Graph(),
   ],
