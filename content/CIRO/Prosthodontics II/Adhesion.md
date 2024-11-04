@@ -388,15 +388,24 @@ if you have a very small sulcus, then you can just use 1 cord; but for most case
 1) Glass-matrix ceramics 
 	1) Feldspathic
 	2) Synthetic 
-		1) leuicite-based 
-		2) lithium disilicate and derivatives 
-		3) fluorapatite-based
+		1) Leucite-based 
+		2) Lithium disilicate and derivatives 
+		3) Fluorapatite-based
 	3) Glass-infiltrated
-		1) alumina
-		2) alumina and mg
-		3) aluminum and zirconia
+		1) Alumina
+		2) Alumina and Magnesium
+		3) Aluminum and Zirconia
 2) Polycrystalline ceramics 
+	1) Alumina
+	2) Stabilized Airconia
+	3) Zirconia-toughened Alumina
+	4) Alumina-toughened Zirconia
 3) Resin-matrix ceramics 
+	1) Resin nanoceramic
+	2) Glass-ceramic in a resin interpenetrating matrix
+	3) Zirconia-silica ceramic in a resin interpenetrating matrix
+![[Classification of dental ceramic and ceramic-like materials.jpeg]]
+
 
 Glass-matrix cermics lithium disilicate 
 2 methods to create

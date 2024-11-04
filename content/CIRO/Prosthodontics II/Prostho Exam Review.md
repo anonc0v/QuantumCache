@@ -162,6 +162,8 @@ can eliminate undercuts (otherwise you have to prep more to remove undercuts)
 
 # Restoration of Endodontically treated teeth
 
+![[Prostho crown post or both.jpg]]
+
 ## Biomechanical changes following endodontic therapy 
  - tissue composition 
 		- loss of moisture 9%, but the rest of the composition is the same
@@ -188,6 +190,8 @@ Metal Post - stress is concentrated on apical 3rd of tooth
 2) 4mm remaining of Gutta Percha 
 3) Choose Post Diameter based on the width of the canal
 
+"The friction of well-adapted fiber post and cores plays a predominant role in the success of post restoration in endodontically-treated teeth" #journal/prostho "Influence of Adaptation and Adhesion on the Retention of Computer-aided Design/Computer-aided Manufacturing Glass Fiber Posts to Root Canal. (2019, Eid et. al)"
+
 ### Post Selection 
 5) Prepare canal with the Peeso Reamer (w/ corresponding color to the post) until the Pre-determined length of the Post Preparation.
 6) Prepare canal with the Final Drill until the pre-determined length.
@@ -211,8 +215,30 @@ Ferrule effect- needs 2-3mm
 - Rim-lock tray - 1-step, 2-step
 - Custom Tray - 1-step only
 
-![[Prostho 2step technique 1 1.jpg|300]]
+![[Prostho 2step technique.jpg]]
 ## Classification of impression materials
+
+
+1) Glass-matrix ceramics 
+	1) Feldspathic
+	2) Synthetic 
+		1) Leucite-based 
+		2) Lithium disilicate and derivatives 
+		3) Fluorapatite-based
+	3) Glass-infiltrated
+		1) Alumina
+		2) Alumina and Magnesium
+		3) Aluminum and Zirconia
+2) Polycrystalline ceramics 
+	1) Alumina
+	2) Stabilized Airconia
+	3) Zirconia-toughened Alumina
+	4) Alumina-toughened Zirconia
+3) Resin-matrix ceramics 
+	1) Resin nanoceramic
+	2) Glass-ceramic in a resin interpenetrating matrix
+	3) Zirconia-silica ceramic in a resin interpenetrating matrix
+![[Classification of dental ceramic and ceramic-like materials.jpeg]]
 
 
 
