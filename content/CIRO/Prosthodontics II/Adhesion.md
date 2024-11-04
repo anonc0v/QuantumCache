@@ -261,9 +261,10 @@ Biomechanical considerations for the restoration of endodontically treated teeth
 
 1) Etch coronal surface, 
 2) rinse, dry inside canal with paper tips; 
-3) use primer
-4) 
-- Use alcohol on the post, then silane (monobond plus)
+3) - Use alcohol on the post, then silane (monobond plus)
+4) use primer
+5) 
+
 
 for premolar - as long as there is 2-3mm ferulle effect, no post necessary 
 
@@ -338,7 +339,7 @@ Ferrule Effect
 
 SMILE:
 you need to bring:
-1) phtographies intra/extra oral
+1) photographies intra/extra oral
 2) diagnostic wax up (articulated)
 3) articulated models
 4) Treatment Plan (whatever you believe) Phase III, IV, V

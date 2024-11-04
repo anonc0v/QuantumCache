@@ -145,7 +145,7 @@ can eliminate undercuts (otherwise you have to prep more to remove undercuts)
 	2) Dentin defect of systemic origin - e.g. dentinogenesis imperfecta
 
 --- 
-Treatment of HM
+## Treatment of HM
 1. prevention (early diagnosis)
 2. identification of caries factors; remineralization; oral hygiene 
 3. desensitization 
@@ -159,6 +159,59 @@ Treatment of HM
 	2. precise clinical delimitation of normal enamel 
 	3. ionomer patient with sensibility wait 6 months max. (then change for direct or indirect restoration) 
 	4. extensive and repetetive restorative treatment - due to weak adhesion (since there is less mineral)
+
+# Restoration of Endodontically treated teeth
+
+## Biomechanical changes following endodontic therapy 
+ - tissue composition 
+		- loss of moisture 9%, but the rest of the composition is the same
+		- Dental adhesion given loss of water?
+	- dentine micro and macrostructure 
+		- there is no evidence in the literature showing weakness in vital or non-vital dentin 
+	- tooth structure 
+		- major changes in tooth biomechanics: 
+			- loss of tissue (caries lesion)
+			- fractures cavity preparation (access cavity)
+
+## Posts
+post - similar resilience??? to dentin 
+Metal Post - stress is concentrated on apical 3rd of tooth 
+
+### Fiber posts - Advantages:
+- exhibit relatively uniform stress distribution to the root 
+- fiber posts have elastic moduli similar to dentin 
+- fiber posts are easy to place, cost effective, and esthetic 
+- glass fiber posts are associated with low catastrophic failure rates compared to other post types - forces are distributed rather than concentrated in one area; post doesn't have to go as deep since adhesion works well with fiber posts
+
+### Post Selection (Out of Mouth)
+1) 4mm of Post above remaining tooth structure
+2) 4mm remaining of Gutta Percha 
+3) Choose Post Diameter based on the width of the canal
+
+### Post Selection 
+5) Prepare canal with the Peeso Reamer (w/ corresponding color to the post) until the Pre-determined length of the Post Preparation.
+6) Prepare canal with the Final Drill until the pre-determined length.
+7) Try-in : Goes to working length
+8) Retention test : Feel the friction between the post and canal wall as you insert and withdraw the post.
+
+Tooth:
+Etch Tooth 10 seconds (coronal tooth structure)
+Rinse Tooth 60 seconds
+Dry with Paper points
+Primer/Adhesive (ONLY ON THE EXTERNAL AREA)
+Use Self-Adhesive, Dual Cure cement (e.g. Panavia V5)
+
+Crown:
+Disinfect post with alcohol for 1 minute.
+Apply Silane on the post and wait 1 minute
+
+Ferrule effect- needs 2-3mm 
+
+# Impressions
+- Rim-lock tray - 1-step, 2-step
+- Custom Tray - 1-step only
+
+## Classification of impression materials
 
 
 # References
