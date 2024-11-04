@@ -186,13 +186,20 @@ Metal Post - stress is concentrated on apical 3rd of tooth
 - glass fiber posts are associated with low catastrophic failure rates compared to other post types - forces are distributed rather than concentrated in one area; post doesn't have to go as deep since adhesion works well with fiber posts
 
 ### Post Selection (Out of Mouth)
+
+
+
+![[Prostho Post Selection 1.jpg]]
 1) 4mm of Post above remaining tooth structure
+![[Prostho Post Selection 2.jpg]]
 2) 4mm remaining of Gutta Percha 
+![[Prostho Post Selection 3.jpg]]
 3) Choose Post Diameter based on the width of the canal
 
 "The friction of well-adapted fiber post and cores plays a predominant role in the success of post restoration in endodontically-treated teeth" #journal/prostho "Influence of Adaptation and Adhesion on the Retention of Computer-aided Design/Computer-aided Manufacturing Glass Fiber Posts to Root Canal. (2019, Eid et. al)"
 
 ### Post Selection 
+![[Prostho Post Space Preparation Peeso.jpg]]
 5) Prepare canal with the Peeso Reamer (w/ corresponding color to the post) until the Pre-determined length of the Post Preparation.
 6) Prepare canal with the Final Drill until the pre-determined length.
 7) Try-in : Goes to working length
@@ -218,6 +225,27 @@ Ferrule effect- needs 2-3mm
 ![[Prostho 2step technique.jpg]]
 ## Classification of impression materials
 
+1. Elastic
+	1. Reversible Hydrocolloid
+	2. Irreversible Hydrocolloid
+	3. Polysulfide
+	4. Polyether
+	5. Addition Silicone (PVS)
+	6. Condensation Silicone
+	7. Vinyl Polyether Siloxane
+2. Inelastic
+	1. Impression waxes
+	2. impression compound
+	3. Impression Plaster
+	4. Metallix oxide pastes
+3. Digital
+	1. Direct - Intraoral
+	2. Indirect - Extraoral
+
+![[Prostho classification impression materials.jpg]]
+
+
+# Classification of Dental Ceramics & Ceramic-like materials
 
 1) Glass-matrix ceramics 
 	1) Feldspathic
