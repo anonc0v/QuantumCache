@@ -186,9 +186,6 @@ Metal Post - stress is concentrated on apical 3rd of tooth
 - glass fiber posts are associated with low catastrophic failure rates compared to other post types - forces are distributed rather than concentrated in one area; post doesn't have to go as deep since adhesion works well with fiber posts
 
 ### Post Selection (Out of Mouth)
-
-
-
 ![[Prostho Post Selection 1.jpg]]
 1) 4mm of Post above remaining tooth structure
 ![[Prostho Post Selection 2.jpg]]
@@ -214,9 +211,12 @@ Use Self-Adhesive, Dual Cure cement (e.g. Panavia V5)
 
 Crown:
 Disinfect post with alcohol for 1 minute.
-Apply Silane on the post and wait 1 minute
+Apply Silane on the post, then wait 1 minute
+Cement - Self-adhesive, dual cure cement (Panavia V5)
 
-Ferrule effect- needs 2-3mm 
+### Ferrule effect
+- the maximum length of the build-up can only be x2 length of the ferrule (i.e. if the ferrule is 2mm then the maximum length of the buildup the total length of the buildup + ferrule can only be x2 the length of the ferrule)
+- Ferrule: at least 2-3mm 
 
 # Impressions
 - Rim-lock tray - 1-step, 2-step
