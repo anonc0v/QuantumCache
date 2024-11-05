@@ -72,8 +72,23 @@ Components
 
 # Classification of adhesive bonding systems 
 
-![[prostho classification adhesive systems.jpeg]]
+![[Prostho classification of bonding systems.png]]
+4th generation: 3-step: Etch + Primer + Bonding
+5th generation: 2-step: Etch + Self-priming adhesive
+6th generation: 2-step: Self-etching primer + Bonding
+7th generation: Single Step - Mix Bottle A and Bottle B
 
+![[Prostho Classification of Adhesive Bonding systems 2.jpg]]
+4th generation: 3 steps: etch / primer / bonding (OptibondFL)
+5th generation: 2 steps: etch / primer + bonding 
+6th generation: 2 steps: etch + Primer / bonding (Clearfil SE)
+7th generation: 1 step: Etch + Primer + bonding
+Universal: 
+- 1 step
+Etch + primer + bonding 
+- 2 step
+Etch / Primer + bonding; 
+Enamel Etch/Dentine etch + Primer + bonding
 
 > [!success] Adhesive Bonding System highlights:
 > 1. gold-standard Etch and Rinse adhesive - **total etch** (4th generation)
