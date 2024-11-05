@@ -1,3 +1,6 @@
+---
+date modified: ""
+---
 
 distal canine and mesial of 2nd molar = donor site 
 3mm thickness of palate (including graft; normally graft will be 1-1.5mm thick if thickness is 3mm in palate as measured with probe)

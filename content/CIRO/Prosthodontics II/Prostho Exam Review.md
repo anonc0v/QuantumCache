@@ -6,6 +6,7 @@ tags:
 Exam: 1
 Exam Date: 
 Lecturer: Dr. Carlos Carlos Garcia
+date modified: 2024-11-05
 ---
 
 # Comprehensive Exam 
@@ -199,7 +200,7 @@ Metal Post - stress is concentrated on apical 3rd of tooth
 ![[Prostho Post Space Preparation Peeso.jpg]]
 5) Prepare canal with the Peeso Reamer (w/ corresponding color to the post) until the Pre-determined length of the Post Preparation.
 6) Prepare canal with the Final Drill until the pre-determined length.
-7) Try-in : Goes to working length
+7) Try-in : Goes to working length passively.
 8) Retention test : Feel the friction between the post and canal wall as you insert and withdraw the post.
 
 Tooth:

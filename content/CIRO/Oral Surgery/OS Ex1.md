@@ -1,3 +1,6 @@
+---
+date modified: ""
+---
  1. HBA1c Level
  ![[Diabetes Blood Tests.png]]
  3. Most common Impaction

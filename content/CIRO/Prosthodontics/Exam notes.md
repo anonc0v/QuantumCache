@@ -1,3 +1,6 @@
+---
+date modified: ""
+---
 TMJ & Occlusion
 
 vestibule-lingual stability (bucco-lingual stability) 

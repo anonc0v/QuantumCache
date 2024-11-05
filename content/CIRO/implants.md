@@ -1,3 +1,6 @@
+---
+date modified: ""
+---
 Bone Physiology
 Compartments:
 - Periostium - main cell pop: osteoblasts

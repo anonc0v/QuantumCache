@@ -1,3 +1,6 @@
+---
+date modified: ""
+---
 **Soft clinical findings** = findings in Radiograph
 - hypermineralized lamina dura 
 - increased PDL space 

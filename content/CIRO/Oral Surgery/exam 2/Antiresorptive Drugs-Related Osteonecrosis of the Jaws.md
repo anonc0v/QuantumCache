@@ -8,7 +8,8 @@ Deadline:
 Links: 
 Exam: 2
 Exam Date: 
-Lecturer:
+Lecturer: 
+date modified: ""
 ---
 # Action Items
 - [x] metastasis moa in relation to ADROJ ✅ 2024-10-12

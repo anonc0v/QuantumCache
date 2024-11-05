@@ -1,3 +1,6 @@
+---
+date modified: ""
+---
 #os/class  [[1. PROJECTS/daily/2024-02-23|2024-02-23]]
 
 I - general surgery principles

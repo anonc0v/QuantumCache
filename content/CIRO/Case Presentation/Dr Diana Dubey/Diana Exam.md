@@ -1,3 +1,6 @@
+---
+date modified: ""
+---
 # Addison's Disease / Adrenal Insufficiency / **Low Cortisol**
 
 - oral manifestations:
