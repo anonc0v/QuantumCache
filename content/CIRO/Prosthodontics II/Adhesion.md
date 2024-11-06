@@ -83,7 +83,7 @@ TEGMA
 HEMA (hydrophobic)
 
 Bifunctional monomers:
-10-MDP - used for zirconia; has a hydrophilic end (with the ethanol) and hydrophobic end (with the phosphate); very long chain so the hydrophilic and hydrophobic end are further away from each other than DPDM
+10-MDP - used for zirconia; has a hydrophilic end (with the ethanol) and hydrophobic end (with the phosphate); very long chain so the hydrophilic and hydrophobic end are further away from each other than GPDM
 GPDM - shorter chain than 10-MDP; so the hydrophilic and hydrophobic ends are closer to each other, which isn't good 
 
 

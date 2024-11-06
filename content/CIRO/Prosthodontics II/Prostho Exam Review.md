@@ -153,7 +153,7 @@ can eliminate undercuts (otherwise you have to prep more to remove undercuts)
 - color
 	- between white, yellow and brown to large areas of surface breakup 
 	- Brown: greater susceptibility to fractures 
-	- if it is fractures it could be difficult to distinguish between enamel hypoplasia (edges of helath enamel lesion are rounded) 
+	- if it is fractures it could be difficult to distinguish between enamel hypoplasia (edges of enamel lesion are rounded) 
 - reduction 5-40% mineral, therefore softer and more susceptible to wear
 - Demographics: Mexico: 35.4% prevalence of HM
 ## Differential Diagnosis:
@@ -211,7 +211,7 @@ Metal Post - stress is concentrated on apical 3rd of tooth
 
 "The friction of well-adapted fiber post and cores plays a predominant role in the success of post restoration in endodontically-treated teeth" #journal/prostho "Influence of Adaptation and Adhesion on the Retention of Computer-aided Design/Computer-aided Manufacturing Glass Fiber Posts to Root Canal. (2019, Eid et. al)"
 
-### Post Selection 
+### Canal Prep for Post Space & Try-in
 ![[Prostho Post Space Preparation Peeso.jpg]]
 5) Prepare canal with the Peeso Reamer (w/ corresponding color to the post) until the Pre-determined length of the Post Preparation.
 6) Prepare canal with the Final Drill until the pre-determined length.
