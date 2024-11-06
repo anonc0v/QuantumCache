@@ -9,7 +9,9 @@ Lecturer: Dr. Carlos Carlos Garcia
 date modified: 2024-11-05
 ---
 
-# Comprehensive Exam 
+# Comprehensive Exam
+- [ ] Add Bifunctional monomers - 10-MDP, GDMP
+
 # Adhesion
 
 |            | Inorganic Matter (%) | Organic Matter (%)                                                | Water (%) |
