@@ -1,12 +1,9 @@
 ---
-Status: 🟥🟨🟩
-Area: CIRO
-Subject: Prosthodontics II
-tags: 
-Exam: 1
-Exam Date: 
-Lecturer: Dr. Carlos Carlos Garcia
-date modified: 2024-11-05
+tags:
+  - prostho/exam
+title: Prostho Exam Review
+date created: We, November 6th 2024, 11:00:12 am
+date modified: Sa, November 9th 2024, 2:17:30 pm
 ---
 
 # Comprehensive Exam

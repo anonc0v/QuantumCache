@@ -1,3 +1,11 @@
+---
+title: Fase I compre
+tags:
+  - faseI
+date created: Fr, November 8th 2024, 11:18:57 pm
+date modified: Sa, November 9th 2024, 2:43:51 am
+---
+
 Hipertension y Diabetes
 
 -Tomar la presión arterial y pulso en cada cita si el paciente presenta cifras superiores a 140/90mmHg, suspender consulta y remitir al medico

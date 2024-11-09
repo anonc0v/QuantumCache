@@ -1,6 +1,10 @@
 ---
-date modified: ""
+title: Exam notes
+tags: 
+date modified: Sa, November 9th 2024, 2:44:57 am
+date created: Mo, November 4th 2024, 12:06:08 am
 ---
+
 TMJ & Occlusion
 
 vestibule-lingual stability (bucco-lingual stability) 
