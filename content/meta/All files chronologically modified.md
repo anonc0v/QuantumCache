@@ -36,33 +36,13 @@ Some hidden tags: anything with "exclude" basically
 
 | File                                                                                                                                           | Folder                                | Modified |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | -------- |
-| [[Vocab]]                                                                                                                     | iSMILE                                | \-       |
-| [[REGISTROS FOR PEDO]]                                                                                           | iSMILE                                | \-       |
-| [[Fases de tratamiento]]                                                                                       | iSMILE                                | \-       |
-| [[Fase I compre]]                                                                                                     | iSMILE                                | \-       |
-| [[Cuestonario de Salúd]]                                                                                       | iSMILE                                | \-       |
 | [[@tarnowEffectDistanceContact1992]]                                                | assets/Zotero/citekey                 | \-       |
-| [[Notes]]                                                                                                                  | Templates                             | \-       |
-| [[LeanProductivity Simple Meeting Template]]                                            | Templates                             | \-       |
-| [[Dataview]]                                                                                                            | Templates                             | \-       |
-| [[Areas]]                                                                                                                  | Templates                             | \-       |
-| [[Vocabulario]]                                                                                                        | Spanish                               | \-       |
-| [[Verbos]]                                                                                                                  | Spanish                               | \-       |
-| [[Verbos Especiales]]                                                                                            | Spanish                               | \-       |
-| [[Spanish]]                                                                                                                | Spanish                               | \-       |
-| [[Guia]]                                                                                                                      | Spanish                               | \-       |
-| [[Frases]]                                                                                                                  | Spanish                               | \-       |
-| [[ESPANOL]]                                                                                                                | Spanish                               | \-       |
-| [[Obsidian/Untitled.md\|Untitled]]                                                                                                             | Obsidian                              | \-       |
-| [[Obsidian]]                                                                                                             | Obsidian                              | \-       |
 | [[Metabolic Syndrome]]                                                                      | Dentistry/Systemic Diseases           | \-       |
 | [[Pharmacology]]                                                                                       | Dentistry/Pharmacology                | \-       |
 | [[Glass Ionomer Cement (GIC)]]                                                       | Dentistry/Dental Materials            | \-       |
 | [[Fluoride]]                                                                                           | Dentistry/Dental Materials            | \-       |
 | [[Dental Materials]]                                                                           | Dentistry/Dental Materials            | \-       |
 | [[Chlorhexidine]]                                                                                 | Dentistry/Dental Materials            | \-       |
-| [[implants]]                                                                                                                 | CIRO                                  | \-       |
-| [[CIRO/Untitled.md\|Untitled]]                                                                                                                 | CIRO                                  | \-       |
 | [[Prostho Exam Review]]                                                                         | CIRO/Prosthodontics II                | \-       |
 | [[Adhesion]]                                                                                               | CIRO/Prosthodontics II                | \-       |
 | [[Rests]]                                                                                                        | CIRO/Prosthodontics                   | \-       |
