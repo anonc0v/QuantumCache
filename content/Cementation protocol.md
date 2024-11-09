@@ -1,3 +1,11 @@
+---
+title: Zirconia Restoration
+tags:
+  - "#prostho/cementation"
+date created: Fr, November 8th 2024, 11:18:56 pm
+date modified: Sa, November 9th 2024, 2:08:37 am
+---
+
 # Zirconia Restoration
 Crown:
 - sandblast + Alcohol + ceramic primer
