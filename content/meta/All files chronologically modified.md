@@ -34,64 +34,37 @@ Some hidden tags: anything with "exclude" basically
 <!-- QueryToSerialize: TABLE file.folder as "Folder", dateformat(date-modified,"MMM d, yyyy") as "Modified" FROM -"tags" SORT date-modified DESC WHERE file.name != this.file.name  AND draft != "true" -->
 <!-- SerializedQuery: TABLE file.folder as "Folder", dateformat(date-modified,"MMM d, yyyy") as "Modified" FROM -"tags" SORT date-modified DESC WHERE file.name != this.file.name  AND draft != "true" -->
 
-| File                                                                                                                                           | Folder                                | Modified |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | -------- |
-| [[@tarnowEffectDistanceContact1992]]                                                | assets/Zotero/citekey                 | \-       |
-| [[Metabolic Syndrome]]                                                                      | Dentistry/Systemic Diseases           | \-       |
-| [[Pharmacology]]                                                                                       | Dentistry/Pharmacology                | \-       |
-| [[Glass Ionomer Cement (GIC)]]                                                       | Dentistry/Dental Materials            | \-       |
-| [[Fluoride]]                                                                                           | Dentistry/Dental Materials            | \-       |
-| [[Dental Materials]]                                                                           | Dentistry/Dental Materials            | \-       |
-| [[Chlorhexidine]]                                                                                 | Dentistry/Dental Materials            | \-       |
-| [[Prostho Exam Review]]                                                                         | CIRO/Prosthodontics II                | \-       |
-| [[Adhesion]]                                                                                               | CIRO/Prosthodontics II                | \-       |
-| [[Rests]]                                                                                                        | CIRO/Prosthodontics                   | \-       |
-| [[Removable Prosthodontics]]                                                                  | CIRO/Prosthodontics                   | \-       |
-| [[Exam notes]]                                                                                              | CIRO/Prosthodontics                   | \-       |
-| [[Pedodontics II]]                                                                                             | CIRO/Pedo II                          | \-       |
-| [[Pedo Exam 2 Topics]]                                                                                     | CIRO/Pedo II                          | \-       |
-| [[Periodontal Biology]]                                                                                     | CIRO/PERIO                            | \-       |
-| [[CIRO/PERIO/Exam 2/Untitled.md\|Untitled]]                                                                                                    | CIRO/PERIO/Exam 2                     | \-       |
-| [[Patterns of Bone Resorption]]                                                              | CIRO/PERIO/Exam 2                     | \-       |
-| [[Local Oral Chemotherapeutic Agents]]                                                | CIRO/PERIO/Exam 2                     | \-       |
-| [[Gingival Grafts]]                                                                                      | CIRO/PERIO/Exam 2                     | \-       |
-| [[Coronal Advanced Flap]]                                                                          | CIRO/PERIO/Exam 2                     | \-       |
-| [[Critical Probing Depth]]                                                                               | CIRO/PERIO                            | \-       |
-| [[Collagen Fiber]]                                                                                               | CIRO/PERIO                            | \-       |
-| [[Odontogenic infections part 2]]                                                   | CIRO/Oral Surgery/exam 2              | \-       |
-| [[Odontogenic infections 3]]                                                             | CIRO/Oral Surgery/exam 2              | \-       |
-| [[Fascial Space Infections]]                                                             | CIRO/Oral Surgery/exam 2              | \-       |
-| [[Odontogenic Infections 1]]                                                             | CIRO/Oral Surgery/exam 2              | \-       |
-| [[Antiresorptive Drugs-Related Osteonecrosis of the Jaws]] | CIRO/Oral Surgery/exam 2              | \-       |
-| [[Anesthetic Technique & Odontogenic Infections]]                   | CIRO/Oral Surgery/exam 2              | \-       |
-| [[Odontogenic Infections]]                                                                        | CIRO/Oral Surgery                     | \-       |
-| [[OS]]                                                                                                                | CIRO/Oral Surgery                     | \-       |
-| [[OS Exam 2 Review]]                                                                                    | CIRO/Oral Surgery                     | \-       |
-| [[OS Ex1]]                                                                                                        | CIRO/Oral Surgery                     | \-       |
-| [[OS EXAM]]                                                                                                      | CIRO/Oral Surgery                     | \-       |
-| [[Alveoloplasty]]                                                                                          | CIRO/Oral Surgery                     | \-       |
-| [[Oxygen Inhibited Layer]]                                                                    | CIRO/Operative/exam 3                 | \-       |
-| [[Classification]]                                                                                           | CIRO/Operative                        | \-       |
-| [[Dr Ruben]]                                                                                                    | CIRO/Endo II ADEX                     | \-       |
-| [[ADEX Endodontics]]                                                                                    | CIRO/Endo II ADEX                     | \-       |
-| [[Syphilis, Pregnancy]]                                                                      | CIRO/Case Presentation II             | \-       |
-| [[Dr. Juan Pablo]]                                                                                | CIRO/Case Presentation II             | \-       |
-| [[Dr. Emilio]]                                                                                        | CIRO/Case Presentation II             | \-       |
-| [[CIRO/Case Presentation/Pregnancy.md\|Pregnancy]]                                                                                             | CIRO/Case Presentation                | \-       |
-| [[CIRO/Case Presentation/Hypertension.md\|Hypertension]]                                                                                       | CIRO/Case Presentation                | \-       |
-| [[CIRO/Case Presentation/Hemophilia.md\|Hemophilia]]                                                                                           | CIRO/Case Presentation                | \-       |
-| [[CIRO/Case Presentation/Dr Juan Pablo/Pregnancy.md\|Pregnancy]]                                                                               | CIRO/Case Presentation/Dr Juan Pablo  | \-       |
-| [[CIRO/Case Presentation/Dr Juan Pablo/Hypertension.md\|Hypertension]]                                                                         | CIRO/Case Presentation/Dr Juan Pablo  | \-       |
-| [[CIRO/Case Presentation/Dr Juan Pablo/Hemophilia.md\|Hemophilia]]                                                                             | CIRO/Case Presentation/Dr Juan Pablo  | \-       |
-| [[CIRO/Case Presentation/Dr Juan Pablo/Diabetes.md\|Diabetes]]                                                                                 | CIRO/Case Presentation/Dr Juan Pablo  | \-       |
-| [[CIRO/Case Presentation/Dr Juan Pablo/Asthma.md\|Asthma]]                                                                                     | CIRO/Case Presentation/Dr Juan Pablo  | \-       |
-| [[Osteoporosis]]                                                                             | CIRO/Case Presentation/Dr Emilio      | \-       |
-| [[Coronary heart disease]]                                                         | CIRO/Case Presentation/Dr Emilio      | \-       |
-| [[Cancer]]                                                                                         | CIRO/Case Presentation/Dr Emilio      | \-       |
-| [[Diana Exam]]                                                                            | CIRO/Case Presentation/Dr Diana Dubey | \-       |
-| [[Autoimmune Diseases]]                                                          | CIRO/Case Presentation/Dr Diana Dubey | \-       |
-| [[CIRO/Case Presentation/Diabetes.md\|Diabetes]]                                                                                               | CIRO/Case Presentation                | \-       |
-| [[CIRO/Case Presentation/Asthma.md\|Asthma]]                                                                                                   | CIRO/Case Presentation                | \-       |
+| File                                         | Folder                      | Modified    |
+| -------------------------------------------- | --------------------------- | ----------- |
+| [[Prostho Exam Review]]                      | CIRO/Prosthodontics II      | Nov 5, 2024 |
+| [[Adhesion]]                                 | CIRO/Prosthodontics II      | Nov 2, 2024 |
+| [[Ortho Exam]]                               |                             | \-          |
+| [[index]]                                    |                             | \-          |
+| [[Untitled 1]]                               |                             | \-          |
+| [[Vocab]]                                    | iSMILE                      | \-          |
+| [[REGISTROS FOR PEDO]]                       | iSMILE                      | \-          |
+| [[Fases de tratamiento]]                     | iSMILE                      | \-          |
+| [[Fase I compre]]                            | iSMILE                      | \-          |
+| [[Cuestonario de Salúd]]                     | iSMILE                      | \-          |
+| [[@tarnowEffectDistanceContact1992]]         | assets/Zotero/citekey       | \-          |
+| [[Notes]]                                    | Templates                   | \-          |
+| [[LeanProductivity Simple Meeting Template]] | Templates                   | \-          |
+| [[Dataview]]                                 | Templates                   | \-          |
+| [[Areas]]                                    | Templates                   | \-          |
+| [[Vocabulario]]                              | Spanish                     | \-          |
+| [[Verbos Especiales]]                        | Spanish                     | \-          |
+| [[Guia]]                                     | Spanish                     | \-          |
+| [[ESPANOL]]                                  | Spanish                     | \-          |
+| [[Obsidian]]                                 | Obsidian                    | \-          |
+| [[Obsidian/Untitled.md\|Untitled]]           | Obsidian                    | \-          |
+| [[Bonding Protocol]]                         | Dentistry                   | \-          |
+| [[LOCAL ANESTHETICS]]                        | Dentistry                   | \-          |
+| [[Metabolic Syndrome]]                       | Dentistry/Systemic Diseases | \-          |
+| [[Pharmacology]]                             | Dentistry/Pharmacology      | \-          |
+| [[Glass Ionomer Cement (GIC)]]               | Dentistry/Dental Materials  | \-          |
+| [[Fluoride]]                                 | Dentistry/Dental Materials  | \-          |
+| [[Dental Materials]]                         | Dentistry/Dental Materials  | \-          |
+| [[Chlorhexidine]]                            | Dentistry/Dental Materials  | \-          |
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: TABLE file.folder as "Folder", dateformat(date-modified,"MMM d, yyyy") as "Modified" FROM -"tags" SORT date-modified DESC WHERE file.name != this.file.name  AND draft != "true" -->
 
