@@ -31,7 +31,8 @@ const recentNotesConfig = {
   showDate: true,
   linkToMore: "meta/" + modifiedListTitle as SimpleSlug,
   excludeTags: ["recents-exclude"],
-  filter: (f: QuartzPluginData) => !f.slug!.startsWith("tags/")
+  //filter: (f: QuartzPluginData) => !f.slug!.startsWith("tags/")
+  filter: (f: QuartzPluginData) => f.relativePath !== "index.md" && !f.slug!.startsWith("tags/")
 }
 const backlinksConfig = {
   excludeTags: ["backlinks-exclude"]
