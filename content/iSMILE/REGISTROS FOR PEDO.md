@@ -1,7 +1,13 @@
 ---
+tags: 
 created: 2024-11-08T23:18
-updated: 2024-11-08T23:18
+updated: 2024-11-10T00:13
+title: REGISTROS FOR PEDO
+date created: November 8th 2024, 11:18:57 pm
+date modified: November 10th 2024, 12:13:52 am
+modified: 2024-11-10T00:13
 ---
+
 ```
 FASE I 
 NO REQUIRE
