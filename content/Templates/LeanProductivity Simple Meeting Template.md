@@ -1,3 +1,7 @@
+---
+created: 2024-10-12T09:56
+updated: 2024-10-12T09:56
+---
 <%*
   let title = tp.file.title
   if (title.startsWith("Untitled")) {

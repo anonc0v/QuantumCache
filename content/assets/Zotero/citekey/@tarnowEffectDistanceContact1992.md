@@ -1,9 +1,19 @@
 ---
 aliases: tarnowEffectDistanceContact1992
-publisher: "Journal of Periodontology"
+publisher: Journal of Periodontology
 url: 
 doi: 10.1902/jop.1992.63.12.995
-tags: [literature-note, zotero, Journal-of-Periodontology, Alveolar Process, Gingiva, Gingival Pocket, Humans, Tooth]
+tags:
+  - literature-note
+  - zotero
+  - Journal-of-Periodontology
+  - Alveolar Process
+  - Gingiva
+  - Gingival Pocket
+  - Humans
+  - Tooth
+created: 2024-05-13T19:42
+updated: 2024-05-13T19:42
 ---
 
 # The effect of the distance from the contact point to the crest of bone on the presence or absence of the interproximal dental papilla

@@ -1,3 +1,7 @@
+---
+created: 2024-11-08T23:18
+updated: 2024-11-08T23:18
+---
 ## Useful Community Plugins:
 - Dataview
 - Templater

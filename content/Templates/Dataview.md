@@ -1,3 +1,7 @@
+---
+created: 2024-04-07T23:09
+updated: 2024-04-07T23:09
+---
 ```dataview
 list
 from [[]] and #class

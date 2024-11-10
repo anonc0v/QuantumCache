@@ -1,3 +1,7 @@
+---
+created: 2024-06-26T16:15
+updated: 2024-06-26T16:15
+---
 Resources: [[Glass Ionomer Cement - StatPearls - NCBI Bookshelf.pdf]]
 
 # Components: 

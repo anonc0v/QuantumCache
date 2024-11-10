@@ -1,3 +1,7 @@
+---
+created: 2024-11-08T23:18
+updated: 2024-11-08T23:18
+---
 # Plan de Tratamiento
 
 ## FASE I: Sistemica - Medidas de precaución y control
