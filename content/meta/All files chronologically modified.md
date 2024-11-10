@@ -32,12 +32,11 @@ Some hidden tags: anything with "exclude" basically
 
 ### The table
 
-<!-- QueryToSerialize: TABLE file.folder as "Folder", dateformat(date-modified,"MMM d, yyyy") as "Modified" SORT date-modified DESC WHERE file.name != this.file.name  AND draft != "true" -->
-<!-- SerializedQuery: TABLE file.folder as "Folder", dateformat(date-modified,"MMM d, yyyy") as "Modified" SORT date-modified DESC WHERE file.name != this.file.name  AND draft != "true" -->
+<!-- QueryToSerialize: TABLE file.folder as "Folder", dateformat(date-modified,"YYYY-MM-DDTHH:mm") as "Modified" SORT date-modified DESC WHERE file.name != this.file.name  AND draft != "true" -->
+<!-- SerializedQuery: TABLE file.folder as "Folder", dateformat(date-modified,"YYYY-MM-DDTHH:mm") as "Modified" SORT date-modified DESC WHERE file.name != this.file.name  AND draft != "true" -->
 
 | File                                         | Folder                      | Modified |
 | -------------------------------------------- | --------------------------- | -------- |
-| [[Bonding Protocol]]                         | Dentistry                   | \-       |
 | [[Chlorhexidine]]                            | Dentistry/Dental Materials  | \-       |
 | [[Dental Materials]]                         | Dentistry/Dental Materials  | \-       |
 | [[Fluoride]]                                 | Dentistry/Dental Materials  | \-       |
@@ -56,7 +55,6 @@ Some hidden tags: anything with "exclude" basically
 | [[LeanProductivity Simple Meeting Template]] | Templates                   | \-       |
 | [[Notes]]                                    | Templates                   | \-       |
 | [[@tarnowEffectDistanceContact1992]]         | assets/Zotero/citekey       | \-       |
-| [[Cuestonario de Salúd]]                     | iSMILE                      | \-       |
 | [[Fases de tratamiento]]                     | iSMILE                      | \-       |
 | [[REGISTROS FOR PEDO]]                       | iSMILE                      | \-       |
 | [[Vocab]]                                    | iSMILE                      | \-       |

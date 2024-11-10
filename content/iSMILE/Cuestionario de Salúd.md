@@ -1,3 +1,10 @@
+---
+tags: 
+title: Cuestionario de Salúd
+date created: November 8th 2024, 11:18:57 pm
+date modified: November 9th 2024, 7:51:52 pm
+---
+
 Questionnaire 
 When did it start
 1) -Cuando empezó?
