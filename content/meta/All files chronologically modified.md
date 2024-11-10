@@ -35,60 +35,30 @@ Some hidden tags: anything with "exclude" basically
 <!-- QueryToSerialize: TABLE file.folder as "Folder", dateformat(date-modified,"MMM d, yyyy") as "Modified" SORT date-modified DESC WHERE file.name != this.file.name  AND draft != "true" -->
 <!-- SerializedQuery: TABLE file.folder as "Folder", dateformat(date-modified,"MMM d, yyyy") as "Modified" SORT date-modified DESC WHERE file.name != this.file.name  AND draft != "true" -->
 
-| File                                                                                                | Folder                      | Modified    |
-| --------------------------------------------------------------------------------------------------- | --------------------------- | ----------- |
-| [[Adhesion]]                                                    | CIRO/Prosthodontics II      | Nov 2, 2024 |
-| [[Bonding Protocol]]                                                 | Dentistry                   | \-          |
-| [[Chlorhexidine]]                                      | Dentistry/Dental Materials  | \-          |
-| [[Dental Materials]]                                | Dentistry/Dental Materials  | \-          |
-| [[Fluoride]]                                                | Dentistry/Dental Materials  | \-          |
-| [[Glass Ionomer Cement (GIC)]]            | Dentistry/Dental Materials  | \-          |
-| [[LOCAL ANESTHETICS]]                                               | Dentistry                   | \-          |
-| [[Pharmacology]]                                            | Dentistry/Pharmacology      | \-          |
-| [[Metabolic Syndrome]]                           | Dentistry/Systemic Diseases | \-          |
-| [[Obsidian]]                                                                  | Obsidian                    | \-          |
-| [[Quartz Setup]]                                                          | Obsidian                    | \-          |
-| [[ESPANOL]]                                                                     | Spanish                     | \-          |
-| [[Guia]]                                                                           | Spanish                     | \-          |
-| [[Verbos Especiales]]                                                 | Spanish                     | \-          |
-| [[Vocabulario]]                                                             | Spanish                     | \-          |
-| [[Areas]]                                                                       | Templates                   | \-          |
-| [[Dataview]]                                                                 | Templates                   | \-          |
-| [[LeanProductivity Simple Meeting Template]] | Templates                   | \-          |
-| [[Notes]]                                                                       | Templates                   | \-          |
-| [[@tarnowEffectDistanceContact1992]]     | assets/Zotero/citekey       | \-          |
-| [[Cuestonario de Salúd]]                                            | iSMILE                      | \-          |
-| [[Fases de tratamiento]]                                            | iSMILE                      | \-          |
-| [[REGISTROS FOR PEDO]]                                                | iSMILE                      | \-          |
-| [[Vocab]]                                                                          | iSMILE                      | \-          |
-<!-- SerializedQuery END -->
-<!-- SerializedQuery: TABLE file.folder as "Folder", dateformat(date-modified,"MMM d, yyyy") as "Modified" FROM -"tags" SORT date-modified DESC WHERE file.name != this.file.name  AND draft != "true" -->d
-
-| File                                                                                                | Folder                      | Modified    |
-| --------------------------------------------------------------------------------------------------- | --------------------------- | ----------- |
-| [[Adhesion]]                                                    | CIRO/Prosthodontics II      | Nov 2, 2024 |
-| [[Vocab]]                                                                          | iSMILE                      | \-          |
-| [[REGISTROS FOR PEDO]]                                                | iSMILE                      | \-          |
-| [[Fases de tratamiento]]                                            | iSMILE                      | \-          |
-| [[Cuestonario de Salúd]]                                            | iSMILE                      | \-          |
-| [[@tarnowEffectDistanceContact1992]]     | assets/Zotero/citekey       | \-          |
-| [[Notes]]                                                                       | Templates                   | \-          |
-| [[LeanProductivity Simple Meeting Template]] | Templates                   | \-          |
-| [[Dataview]]                                                                 | Templates                   | \-          |
-| [[Areas]]                                                                       | Templates                   | \-          |
-| [[Vocabulario]]                                                             | Spanish                     | \-          |
-| [[Verbos Especiales]]                                                 | Spanish                     | \-          |
-| [[Guia]]                                                                           | Spanish                     | \-          |
-| [[ESPANOL]]                                                                     | Spanish                     | \-          |
-| [[Quartz Setup]]                                                          | Obsidian                    | \-          |
-| [[Obsidian]]                                                                  | Obsidian                    | \-          |
-| [[Metabolic Syndrome]]                           | Dentistry/Systemic Diseases | \-          |
-| [[Pharmacology]]                                            | Dentistry/Pharmacology      | \-          |
-| [[LOCAL ANESTHETICS]]                                               | Dentistry                   | \-          |
-| [[Glass Ionomer Cement (GIC)]]            | Dentistry/Dental Materials  | \-          |
-| [[Fluoride]]                                                | Dentistry/Dental Materials  | \-          |
-| [[Dental Materials]]                                | Dentistry/Dental Materials  | \-          |
-| [[Chlorhexidine]]                                      | Dentistry/Dental Materials  | \-          |
-| [[Bonding Protocol]]                                                 | Dentistry                   | \-          |
+| File                                         | Folder                      | Modified |
+| -------------------------------------------- | --------------------------- | -------- |
+| [[Bonding Protocol]]                         | Dentistry                   | \-       |
+| [[Chlorhexidine]]                            | Dentistry/Dental Materials  | \-       |
+| [[Dental Materials]]                         | Dentistry/Dental Materials  | \-       |
+| [[Fluoride]]                                 | Dentistry/Dental Materials  | \-       |
+| [[Glass Ionomer Cement (GIC)]]               | Dentistry/Dental Materials  | \-       |
+| [[LOCAL ANESTHETICS]]                        | Dentistry                   | \-       |
+| [[Pharmacology]]                             | Dentistry/Pharmacology      | \-       |
+| [[Metabolic Syndrome]]                       | Dentistry/Systemic Diseases | \-       |
+| [[Obsidian]]                                 | Obsidian                    | \-       |
+| [[Quartz Setup]]                             | Obsidian                    | \-       |
+| [[ESPANOL]]                                  | Spanish                     | \-       |
+| [[Guia]]                                     | Spanish                     | \-       |
+| [[Verbos Especiales]]                        | Spanish                     | \-       |
+| [[Vocabulario]]                              | Spanish                     | \-       |
+| [[Areas]]                                    | Templates                   | \-       |
+| [[Dataview]]                                 | Templates                   | \-       |
+| [[LeanProductivity Simple Meeting Template]] | Templates                   | \-       |
+| [[Notes]]                                    | Templates                   | \-       |
+| [[@tarnowEffectDistanceContact1992]]         | assets/Zotero/citekey       | \-       |
+| [[Cuestonario de Salúd]]                     | iSMILE                      | \-       |
+| [[Fases de tratamiento]]                     | iSMILE                      | \-       |
+| [[REGISTROS FOR PEDO]]                       | iSMILE                      | \-       |
+| [[Vocab]]                                    | iSMILE                      | \-       |
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: TABLE file.folder as "Folder", dateformat(date-modified,"MMM d, yyyy") as "Modified" FROM -"tags" SORT date-modified DESC WHERE file.name != this.file.name  AND draft != "true" -->

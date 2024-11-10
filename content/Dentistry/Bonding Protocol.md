@@ -1,3 +1,9 @@
+---
+tags: 
+title: Bonding Protocol
+date created: November 8th 2024, 11:18:57 pm
+date modified: November 9th 2024, 6:56:06 pm
+---
 # Fiber Post
 1) GP removal (Minimum 3.5mm GP remaining; w/ Gates Glidden)
 2) Post Space Preparation (Reemers?)

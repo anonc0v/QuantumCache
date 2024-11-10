@@ -2,8 +2,8 @@
 title: Cementation protocol
 tags:
   - "#prostho/cementation"
-date created: Fr, November 8th 2024, 11:18:56 pm
-date modified: Sa, November 9th 2024, 2:41:15 am
+date created: November 9th 2024, 2:41:15 am
+date modified: November 9th 2024, 5:53:07 pm
 ---
 
 # Zirconia Restoration

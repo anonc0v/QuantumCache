@@ -1,6 +1,10 @@
 ---
-date modified: 2024-11-02
+tags: 
+date modified: November 9th 2024, 5:49:14 pm
+title: Adhesion
+date created: November 8th 2024, 10:49:05 pm
 ---
+
 Enamel:
 - 96% inroganic matter
 - 3% agua
