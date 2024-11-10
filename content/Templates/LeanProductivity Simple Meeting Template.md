@@ -2,6 +2,8 @@
 created: 2024-10-12T09:56
 updated: 2024-10-12T09:56
 modified: 2024-10-12T09:56
+date created: 2024-10-12T09:56
+date modified: 2024-10-12T09:56
 ---
 <%*
   let title = tp.file.title

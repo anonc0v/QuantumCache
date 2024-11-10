@@ -6,10 +6,11 @@ Area:
 Created: 
 Modified: 
 Exam: 1
-date modified: ""
+date modified: 2024-11-04T00:06
 created: 2024-11-04T00:06
 updated: 2024-11-04T00:06
 modified: 2024-11-04T00:06
+date created: 2024-11-04T00:06
 ---
 Iron Deficiency Anemia: 42% of pregnant women were observed to be iron deficient in the first trimester.
 

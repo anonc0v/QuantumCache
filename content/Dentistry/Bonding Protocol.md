@@ -3,7 +3,7 @@ tags:
   - prostho/bonding
 title: Bonding Protocol
 date created: November 8th 2024, 11:18:57 pm
-date modified: November 9th 2024, 7:49:18 pm
+date modified: 2024-11-09T19:49
 created: 2024-11-09T18:56
 updated: 2024-11-09T19:49
 modified: 2024-11-09T19:49

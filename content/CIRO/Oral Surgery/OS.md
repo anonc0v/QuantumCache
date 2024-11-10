@@ -1,8 +1,9 @@
 ---
-date modified: ""
+date modified: 2024-11-04T00:06
 created: 2024-11-04T00:06
 updated: 2024-11-04T00:06
 modified: 2024-11-04T00:06
+date created: 2024-11-04T00:06
 ---
 #os/class  [[1. PROJECTS/daily/2024-02-23|2024-02-23]]
 

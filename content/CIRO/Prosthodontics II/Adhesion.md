@@ -1,6 +1,6 @@
 ---
 tags: 
-date modified: November 9th 2024, 5:49:14 pm
+date modified: 2024-11-09T17:49
 title: Adhesion
 date created: November 8th 2024, 10:49:05 pm
 created: 2024-11-08T22:49
