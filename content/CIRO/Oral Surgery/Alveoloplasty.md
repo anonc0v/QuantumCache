@@ -1,9 +1,6 @@
 ---
-date modified: 2024-11-04T00:06
-created: 2024-11-04T00:06
-updated: 2024-11-04T00:06
-modified: 2024-11-04T00:06
-date created: 2024-11-04T00:06
+date created: 2024-11-04 00:06
+date modified: 2024-11-11 20:19
 ---
 1. **Anesthesia:** Circumferential local infiltration; included sites are on either side of the flap on the residual ridge, 2 more sites towards in the vestibular area evenly spaced within the area in need of alveoloplasty
     

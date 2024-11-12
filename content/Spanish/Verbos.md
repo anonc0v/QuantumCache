@@ -1,11 +1,6 @@
 ---
-title: "Verbos "
-tags: 
-date created: Fr, November 8th 2024, 11:18:57 pm
-date modified: 2024-11-09T02:03
-created: 2024-11-09T02:03
-updated: 2024-11-09T02:03
-modified: 2024-11-09T02:03
+date created: 2024-11-09 02:03
+date modified: 2024-11-11 13:18
 ---
 
 # Verbos 

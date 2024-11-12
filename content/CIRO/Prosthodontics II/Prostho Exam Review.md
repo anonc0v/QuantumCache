@@ -2,11 +2,8 @@
 tags:
   - prostho/exam
 title: Prostho Exam Review
-date created: November 9th 2024, 2:17:49 pm
-date modified: 2024-11-09T17:48
-created: 2024-11-09T14:17
-updated: 2024-11-09T17:48
-modified: 2024-11-09T17:48
+date created: 2024-11-09 17:48
+date modified: 2024-11-11 20:19
 ---
 
 # Comprehensive Exam

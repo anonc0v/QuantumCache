@@ -1,10 +1,12 @@
 ---
-created: 2024-11-08T23:18
-updated: 2024-11-08T23:18
-modified: 2024-11-08T23:18
-date created: 2024-11-08T23:18
-date modified: 2024-11-08T23:18
+tags: 
+date created: 2024-11-08 23:18
+date modified: 2024-11-11 20:15
+title: ESPANOL
+aliases:
+  - desde vs desde hace difference?
 ---
+
 ## "Sigue en pie que seguiré trabajando arduamente para alcanzar mis metas."
 
 Translation: "It's still standing that I will continue working hard to achieve my goals."

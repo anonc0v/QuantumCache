@@ -2,11 +2,8 @@
 tags:
   - prostho/bonding
 title: Bonding Protocol
-date created: November 8th 2024, 11:18:57 pm
-date modified: 2024-11-09T19:49
-created: 2024-11-09T18:56
-updated: 2024-11-09T19:49
-modified: 2024-11-09T19:49
+date created: 2024-11-09 19:49
+date modified: 2024-11-11 20:19
 ---
 
 # Fiber Post

@@ -1,20 +1,18 @@
 ---
 Status: 🟥🟨🟩
-Title: Odontogenic Infections
 Area: Dentistry
 Subject: Oral Surgery
 tags:
   - "#os/class"
-Deadline: 
 Links: 
 Exam: 2
 Exam Date: 
-date modified: 2024-11-04T00:06
-created: 2024-11-04T00:06
-updated: 2024-11-04T00:06
-modified: 2024-11-04T00:06
-date created: 2024-11-04T00:06
+aliases:
+  - Action Items
+date created: 2024-11-04 00:06
+date modified: 2024-11-11 20:19
 ---
+
 # Action Items
 - [ ] trigeminal ganglion 
 - [ ] injecting to posterior to ramus - parotid gland and ___ vessel >> hematoma & temporary ipsilateral sagging of face 

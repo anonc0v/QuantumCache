@@ -1,11 +1,8 @@
 ---
 title: Exam notes
 tags: 
-date modified: 2024-11-09T02:44
-date created: Mo, November 4th 2024, 12:06:08 am
-created: 2024-11-09T02:44
-updated: 2024-11-09T02:44
-modified: 2024-11-09T02:44
+date created: 2024-11-09 02:44
+date modified: 2024-11-11 20:19
 ---
 
 TMJ & Occlusion

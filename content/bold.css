@@ -1,0 +1,15 @@
+.theme-dark {
+	--bold-weight: 700;
+    --bold-color: #08FF08;
+    --italic-weight: 600;
+    --italic-color: #08FF08;
+
+/*
+.theme-light {
+    --bold-color: var(--color-orange);
+}
+
+.theme-dark {
+    --bold-color: var(--color-orange);
+}
+/*

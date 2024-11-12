@@ -1,11 +1,8 @@
 ---
 title: Ortho Exam
 tags: 
-date created: November 9th 2024, 2:31:19 am
-date modified: 2024-11-09T17:54
-created: 2024-11-09T02:31
-updated: 2024-11-09T17:54
-modified: 2024-11-09T17:54
+date created: 2024-11-09 17:54
+date modified: 2024-11-11 20:19
 ---
 
 TMJ:

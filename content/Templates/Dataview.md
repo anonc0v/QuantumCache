@@ -1,9 +1,5 @@
 ---
-created: 2024-04-07T23:09
-updated: 2024-04-07T23:09
-modified: 2024-04-07T23:09
-date created: 2024-04-07T23:09
-date modified: 2024-04-07T23:09
+date modified: 2024-11-11 20:17
 ---
 ```dataview
 list

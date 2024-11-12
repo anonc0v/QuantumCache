@@ -1,20 +1,18 @@
 ---
 Status: 🟥🟨🟩
-Title: Odontogenic infecions part 2
 Area: 
 Subject: 
 tags: 
-Deadline: 
 Links: 
 Exam: 
 Exam Date: 
 Lecturer: 
-date modified: 2024-11-04T00:06
-created: 2024-11-04T00:06
-updated: 2024-11-04T00:06
-modified: 2024-11-04T00:06
-date created: 2024-11-04T00:06
+aliases:
+  - Odontogenic Infections part 2
+date created: 2024-11-04 00:06
+date modified: 2024-11-11 20:19
 ---
+
 # Odontogenic Infections part 2
 
 - pediatric patients: buccal and canine spaces - most common swellings/fascial space infection 

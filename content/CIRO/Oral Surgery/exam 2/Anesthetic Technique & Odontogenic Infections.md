@@ -1,19 +1,16 @@
 ---
 Status: 🟥🟨🟩
-Title: Odontogenic Infections
 Area: Dentistry
 Subject: Oral Surgery
 tags: 
-Deadline: 
 Links: 
 Exam: 2
 Exam Date: 
-date modified: 2024-11-04T00:06
-created: 2024-11-04T00:06
-updated: 2024-11-04T00:06
-modified: 2024-11-04T00:06
-date created: 2024-11-04T00:06
+title: Anesthetic Technique & Odontogenic Infections
+date created: 2024-11-04 00:06
+date modified: 2024-11-11 20:19
 ---
+
 # Anesthetic Technique & Odontogenic Infections
 # Action Items - Odontogenic Infections
  - [x] 2nd edition of Peterson's has ODONTOGENIC INFECTIONS ✅ 2024-10-12

@@ -1,10 +1,11 @@
 ---
-date modified: 2024-11-04T00:06
-created: 2024-11-04T00:06
-updated: 2024-11-04T00:06
-modified: 2024-11-04T00:06
-date created: 2024-11-04T00:06
+title: OS Exam 2 Review
+aliases:
+  - Shock - a state of cellular and tissue hypoxia due to either reduced oxygen delivery, increased oxygen consumption, inadequate oxygen utilization, or a combination of these processes.
+date created: 2024-11-04 00:06
+date modified: 2024-11-11 20:19
 ---
+
 **Soft clinical findings** = findings in Radiograph
 - hypermineralized lamina dura 
 - increased PDL space 

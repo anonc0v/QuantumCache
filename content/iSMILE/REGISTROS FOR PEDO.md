@@ -1,11 +1,8 @@
 ---
 tags: 
-created: 2024-11-08T23:18
-updated: 2024-11-10T00:13
 title: REGISTROS FOR PEDO
-date created: November 8th 2024, 11:18:57 pm
-date modified: 2024-11-10T00:16
-modified: 2024-11-10T00:13
+date created: 2024-11-10 00:16
+date modified: 2024-11-11 20:18
 ---
 
 ```

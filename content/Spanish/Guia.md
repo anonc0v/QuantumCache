@@ -1,10 +1,11 @@
 ---
-created: 2024-11-08T23:18
-updated: 2024-11-08T23:18
-modified: 2024-11-08T23:18
-date created: 2024-11-08T23:18
-date modified: 2024-11-08T23:18
+date created: 2024-11-08 23:18
+date modified: 2024-11-11 20:16
+title: Guia
+aliases:
+  - "Estar conjugations  #verbos  #website spanishdict"
 ---
+
 [[Vocabulario]]
 [[Frases]]
 [[Verbos]]

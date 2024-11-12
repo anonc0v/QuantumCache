@@ -1,9 +1,6 @@
 ---
-created: 2024-06-26T16:15
-updated: 2024-06-26T16:15
-modified: 2024-06-26T16:15
-date created: 2024-06-26T16:15
-date modified: 2024-06-26T16:15
+date created: 2024-06-26 16:15
+date modified: 2024-11-11 20:19
 ---
 Fluoride concentration recommended for all age groups by the ADA is 1000-1500ppm
 Source: WHO: https://cdn.who.int/media/docs/default-source/essential-medicines/2021-eml-expert-committee/applications-for-addition-of-new-medicines/a.14_fluoride-toothpaste.pdf?sfvrsn=4eb40f4c_4

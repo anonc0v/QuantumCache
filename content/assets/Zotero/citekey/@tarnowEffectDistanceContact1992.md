@@ -16,7 +16,9 @@ created: 2024-05-13T19:42
 updated: 2024-05-13T19:42
 modified: 2024-05-13T19:42
 date created: 2024-05-13T19:42
-date modified: 2024-05-13T19:42
+date modified: 2024-05-13 19:42
+Date Created: 2024-05-13 19:42
+Date Modified: 2024-05-13 19:42
 ---
 
 # The effect of the distance from the contact point to the crest of bone on the presence or absence of the interproximal dental papilla
