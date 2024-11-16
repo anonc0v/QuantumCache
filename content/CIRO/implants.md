@@ -1,7 +1,9 @@
 ---
 date created: 2024-11-08 23:18
-date modified: 2024-11-11 20:19
+date modified: 2024-11-16 03:02
+title: implants
 ---
+
 Bone Physiology
 Compartments:
 - Periostium - main cell pop: osteoblasts

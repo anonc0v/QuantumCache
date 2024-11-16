@@ -3,7 +3,9 @@ tags:
   - prostho/exam
 title: Prostho Exam Review
 date created: 2024-11-09 17:48
-date modified: 2024-11-11 20:19
+date modified: 2024-11-16 01:50
+aliases:
+  - Comprehensive Exam
 ---
 
 # Comprehensive Exam
