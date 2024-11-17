@@ -5,7 +5,7 @@ tags:
   - backlinks-exclude
   - recents-exclude
 title: All files chronologically modified
-date modified: 2024-11-16 03:27
+date modified: 2024-11-16 20:20
 ---
 ---
 
@@ -32,6 +32,11 @@ Some hidden tags: anything with "exclude" basically
 ### The table
 
 <!-- QueryToSerialize: TABLE file.folder as "Folder", dateformat(date-modified,"MMM d, yyyy") as "Modified" FROM -"tags" SORT date-modified DESC WHERE file.name != this.file.name  AND draft != "true" --> 
+
+
+
+
+
 
 
 
