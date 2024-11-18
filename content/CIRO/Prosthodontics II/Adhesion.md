@@ -2,7 +2,9 @@
 tags: 
 title: Adhesion
 date created: 2024-11-09 17:49
-date modified: 2024-11-11 20:19
+date modified: 2024-11-18 11:08
+aliases:
+  - "Restoration of Endodontically treated teeth "
 ---
 
 Enamel:

@@ -1,7 +1,11 @@
 ---
 date created: 2024-06-26 16:15
-date modified: 2024-11-11 20:19
+date modified: 2024-11-18 11:32
+title: Glass Ionomer Cement (GIC)
+aliases:
+  - "Components: "
 ---
+
 Resources: [[Glass Ionomer Cement - StatPearls - NCBI Bookshelf.pdf]]
 
 # Components: 

@@ -8,11 +8,24 @@ Deadline:
 Links: 
 Exam: 
 date created: 2024-06-26 16:15
-date modified: 2024-11-11 20:19
+date modified: 2024-11-18 11:11
+title: Chlorhexidine
+aliases:
+  - Action Items
 ---
-# Action Items
 
-# Title
+
+# Chlorhexidine
+
+Properties:
+- Antimicrobial  
+- non-specific MMP inhibitor - increases the preservation of dentin adhesion strength 
+- Prevents proteolytic degradation through the immobilization of MMPs, **Increases adhesion longevity** 
+- reduces plaque formation by 80%
+
+Clinical Significance:
+ after etching or drilling, apply clorhexidine and allow to work for 1 minute to deactivate the MMPs
+		- why? Because after etching/trauma, the MMPs that are embedded in tooth structure will be activated
 
 # References
 
