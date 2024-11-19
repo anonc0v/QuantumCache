@@ -1,8 +1,10 @@
 ---
 date created: 2024-11-16 20:17
-date modified: 2024-11-16 20:17
+date modified: 2024-11-19 12:23
 title: TODO
 ---
 
 - [ ] https://www.facebook.com/groups/2016057668694875
-- [ ] 
+- [ ] read journal articles:
+	- [ ] manejo odontologico del paciente con terpaia antitrrombotica
+	- [ ] manejo odnotologico del paciente anticoagulado (odontogenesis)
