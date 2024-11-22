@@ -1,6 +1,6 @@
 ---
 date created: 2024-11-16 20:17
-date modified: 2024-11-19 17:32
+date modified: 2024-11-21 23:05
 title: TODO
 ---
 
@@ -9,3 +9,5 @@ title: TODO
 	- [ ] manejo odontologico del paciente con terpaia antitrrombotica
 	- [ ] manejo odnotologico del paciente anticoagulado (odontogenesis)
 	- [ ] ![[AAPD_PulpTherapy.pdf]]
+	- [ ] https://github.com/marlonrichert/zsh-autocomplete
+	- [ ] 
