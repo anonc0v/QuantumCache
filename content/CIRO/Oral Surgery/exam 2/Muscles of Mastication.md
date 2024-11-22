@@ -1,20 +1,38 @@
 ---
 date created: 2024-11-18 12:34
-date modified: 2024-11-19 12:57
+date modified: 2024-11-21 22:57
 tags:
   - "#anatomy"
 title: Muscles of Mastication
 ---
 
+# Muscles of Mastication
 
 ![[Muscles of Mastication 1.jpg]]
 
 >[!note] Muscles of Mastication
 >The muscles of mastication originate from different bones of the skull and insert into the mandible. The **temporalis muscle** is located in the temporal fossa. The **masseter muscle** can be found on the face, superficial to the lateral surface of the ramus of the mandible. This muscle has a superficial and a deep layer. The **medial** and **lateral pterygoids** are found in the infratemporal fossa. Each muscle consists of two heads. The medial pterygoid has a deep and a superficial head, while the lateral pterygoid has a superior and an inferior head.
 
-![[Anatomy Masseter.jpeg]]![[Anatomy Masseter superficial.jpeg]]![[Anatomy Masseter Deep.jpeg]]
+## Temporalis ms.
 
-Masseter:
+![[assets/OS Temporalis.jpeg|400]]
+
+>[!info]
+ A broad, fan-shaped muscle that fills much of the [temporal fossa](https://www.kenhub.com/en/library/anatomy/the-temporal-fossa). 
+ **Origin**: **inferior temporal line** on the bony floor of the temporal fossa. Descending from the temporal fossa, the temporalis ms. merges together forming a tendon, which runs between the **zygomatic arch** and the **infratemporal crest** of the greater wing of the sphenoid bone.  
+  **Insertion**: Apex, medial, anterior, and posterior surfaces of the [mandibular coronoid process](https://www.kenhub.com/en/library/anatomy/coronoid-process-of-mandible), as well as the anterior edge of the [mandibular ramus](https://www.kenhub.com/en/library/anatomy/the-mandible), extending close to the third [molar tooth](https://www.kenhub.com/en/library/anatomy/molar-tooth).
+
+## Medial pterygoid ms.
+
+![[assets/OS Medial Pterygoid.jpeg|400]]
+
+>[!note] Medial pterygoid ms.
+|*Origin*| **Superficial part:** Tuberosity of maxilla, Pyramidal process of palatine bone  <br>**Deep part:** Medial surface of lateral pterygoid plate of sphenoid bone|
+|*Insertion*|Medial surface of ramus and angle of mandible|
+|*Action*| **Bilateral contraction** - Elevates and protrudes mandible   <br>**Unilateral contraction** - Medial movement (rotation) of mandible|
+|*Innervation*|  Medial pterygoid nerve (of mandibular nerve (CN V3)|
+|*Blood supply*| Pterygoid branches (maxillary artery, buccal artery, facial artery)|
+## Masseter:
 
 Dense quadrangular muscle with deep and superficial parts.
 
@@ -22,4 +40,21 @@ Dense quadrangular muscle with deep and superficial parts.
 >Origin: Inferior border of the Zygomatic arch (Zygomatic process of temporal bone) & Temporal process of the zygomatic bone
 >Insertion: Masseteric tuberosity of the mandibular ramus (inferior border of the angle of the mandible)
 >Innervation: CN V3 (Masseteric nerve)
+
+![[Anatomy Masseter.jpeg]]![[Anatomy Masseter superficial.jpeg]]![[Anatomy Masseter Deep.jpeg]]
+
+
+
+## Lateral pterygoid ms.
+
+![[assets/OS Lateral pterygoid.jpeg|500]] 
+
+
+>[!info] Origin & Insertion 
+>**Superior head** originates from *infratemporal crest of the Greater wing of sphenoid*
+Inferior head inserts at **lateral surface of Lateral Pterygoid Plate** of Sphenoid bone
+Medial Pterygoid 
+
+![[assets/OS bones of skull sphenoid.jpg|500]]![[assets/OS Sphenoid.jpeg|500]]
+
 
