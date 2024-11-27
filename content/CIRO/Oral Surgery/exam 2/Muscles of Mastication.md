@@ -1,6 +1,6 @@
 ---
 date created: 2024-11-18 12:34
-date modified: 2024-11-25 16:32
+date modified: 2024-11-26 22:29
 tags:
   - "#anatomy"
 title: Muscles of Mastication
@@ -18,7 +18,7 @@ title: Muscles of Mastication
 ![[assets/OS Temporalis.jpeg|400]]
 
 >[!info] Temporalis
- A broad, fan-shaped muscle that fills much of the [temporal fossa](https://www.kenhub.com/en/library/anatomy/the-temporal-fossa). 
+>A broad, fan-shaped muscle that fills much of the [temporal fossa](https://www.kenhub.com/en/library/anatomy/the-temporal-fossa). 
  **Origin**: **inferior temporal line** on the bony floor of the temporal fossa. Descending from the temporal fossa, the temporalis ms. merges together forming a tendon, which runs between the **zygomatic arch** and the **infratemporal crest** of the greater wing of the sphenoid bone.  
   **Insertion**: Apex, medial, anterior, and posterior surfaces of the [mandibular coronoid process](https://www.kenhub.com/en/library/anatomy/coronoid-process-of-mandible), as well as the anterior edge of the [mandibular ramus](https://www.kenhub.com/en/library/anatomy/the-mandible), extending close to the third [molar tooth](https://www.kenhub.com/en/library/anatomy/molar-tooth).
 
@@ -31,7 +31,8 @@ title: Muscles of Mastication
 |*Insertion*| Medial surface of ramus and angle of mandible|
 |*Action*| **Bilateral contraction** - Elevates and protrudes mandible   <br>**Unilateral contraction** - Medial movement (rotation) of mandible|
 |*Innervation*|  Medial pterygoid nerve (of mandibular nerve (CN V3)|
-|*Blood supply*| Pterygoid branches (maxillary artery, buccal artery, facial artery)|
+|*Blood supply*| Pterygoid branches (maxillary artery, buccal artery, facial artery)
+
 ## Masseter:
 
 Dense quadrangular muscle with deep and superficial parts.
@@ -42,8 +43,6 @@ Dense quadrangular muscle with deep and superficial parts.
 >Innervation: CN V3 (Masseteric nerve)
 
 ![[Anatomy Masseter.jpeg]]![[Anatomy Masseter superficial.jpeg]]![[Anatomy Masseter Deep.jpeg]]
-
-
 
 ## Lateral pterygoid ms.
 
