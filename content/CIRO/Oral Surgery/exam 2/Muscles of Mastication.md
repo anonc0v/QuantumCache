@@ -1,6 +1,6 @@
 ---
 date created: 2024-11-18 12:34
-date modified: 2024-11-26 22:29
+date modified: 2024-11-26 23:01
 tags:
   - "#anatomy"
 title: Muscles of Mastication
@@ -26,21 +26,21 @@ title: Muscles of Mastication
 
 ![[assets/OS Medial Pterygoid.jpeg|400]]
 
->[!note] Medial pterygoid ms.
-|*Origin*| **Superficial part:** Tuberosity of maxilla, Pyramidal process of palatine bone  <br>**Deep part:** Medial surface of lateral pterygoid plate of sphenoid bone|
-|*Insertion*| Medial surface of ramus and angle of mandible|
-|*Action*| **Bilateral contraction** - Elevates and protrudes mandible   <br>**Unilateral contraction** - Medial movement (rotation) of mandible|
-|*Innervation*|  Medial pterygoid nerve (of mandibular nerve (CN V3)|
-|*Blood supply*| Pterygoid branches (maxillary artery, buccal artery, facial artery)
-
+>[!note] Medial pterygoid ms. - Description
+>|*Origin*| **Superficial part:** Tuberosity of maxilla, Pyramidal process of palatine bone  <br>**Deep part:** Medial surface of lateral pterygoid plate of sphenoid bone|
+>|*Insertion*| Medial surface of ramus and angle of mandible|
+> |*Action*| **Bilateral contraction** - Elevates and protrudes mandible   <br>**Unilateral contraction** - Medial movement (rotation) of mandible|
+> |*Innervation*|  Medial pterygoid nerve (of mandibular nerve (CN V3)|
+> |*Blood supply*| Pterygoid branches (maxillary artery, buccal artery, facial artery)
+****
 ## Masseter:
 
 Dense quadrangular muscle with deep and superficial parts.
 
->[!note] Origin & Insertion
->Origin: Inferior border of the Zygomatic arch (Zygomatic process of temporal bone) & Temporal process of the zygomatic bone
->Insertion: Masseteric tuberosity of the mandibular ramus (inferior border of the angle of the mandible)
->Innervation: CN V3 (Masseteric nerve)
+>[!note] Masseter - *Origin & Insertion*
+>**Origin:** Inferior border of the Zygomatic arch (Zygomatic process of temporal bone) & Temporal process of the zygomatic bone
+>**Insertion:** Masseteric tuberosity of the mandibular ramus (inferior border of the angle of the mandible)
+>**Innervation:** CN V3 (Masseteric nerve)
 
 ![[Anatomy Masseter.jpeg]]![[Anatomy Masseter superficial.jpeg]]![[Anatomy Masseter Deep.jpeg]]
 
@@ -49,10 +49,9 @@ Dense quadrangular muscle with deep and superficial parts.
 ![[assets/OS Lateral pterygoid.jpeg|500]] 
 
 
->[!info] Origin & Insertion 
+>[!info] Lateral Pterygoid - *Origin & Insertion*
 >**Superior head** originates from *infratemporal crest of the Greater wing of sphenoid*
-Inferior head inserts at **lateral surface of Lateral Pterygoid Plate** of Sphenoid bone
-Medial Pterygoid 
+Inferior head inserts at **lateral surface of Lateral Pterygoid Plate** of *Sphenoid bone*
 
 ![[assets/OS bones of skull sphenoid.jpg|500]]![[assets/OS Sphenoid.jpeg|500]]
 
