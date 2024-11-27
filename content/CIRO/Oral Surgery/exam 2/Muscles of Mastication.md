@@ -1,6 +1,6 @@
 ---
 date created: 2024-11-18 12:34
-date modified: 2024-11-27 09:28
+date modified: 2024-11-27 10:01
 tags:
   - "#anatomy"
 title: Muscles of Mastication
@@ -28,7 +28,7 @@ title: Muscles of Mastication
 
 >[!note] Medial pterygoid ms. - Description
 >|*Origin*| 
->	**Superficial part:** Tuberosity of maxilla, Pyramidal process of palatine bone  **Deep part:** Medial surface of lateral pterygoid plate of sphenoid bone|
+>	**Superficial part:** Tuberosity of maxilla, Pyramidal process of palatine bone  **Deep part:** Medial surface of lateral pterygoid plate of sphenoid bone
 >|*Insertion*| Medial surface of ramus and angle of mandible|
 > |*Action*| 
 > 	**Bilateral contraction** - Elevates and protrudes mandible   <br>**Unilateral contraction** - Medial movement (rotation) of mandible|
