@@ -1,6 +1,6 @@
 ---
 date created: 2024-11-18 12:34
-date modified: 2024-11-27 12:19
+date modified: 2024-11-27 12:25
 tags:
   - "#anatomy"
 title: Muscles of Mastication
@@ -46,7 +46,7 @@ Dense quadrangular muscle with deep and superficial parts.
 >**Innervation:** CN V3 (Masseteric nerve)
 ****
 
-![[Anatomy Masseter.jpeg]]![[Anatomy Masseter superficial.jpeg]]![[Anatomy Masseter Deep.jpeg]]
+![[Anatomy Masseter.jpeg | 300]]![[Anatomy Masseter superficial.jpeg | 300]]![[Anatomy Masseter Deep.jpeg | 300]]
 
 ****
 ## Lateral pterygoid ms.
