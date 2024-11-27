@@ -1,6 +1,6 @@
 ---
 date created: 2024-11-18 12:34
-date modified: 2024-11-26 23:01
+date modified: 2024-11-26 23:11
 tags:
   - "#anatomy"
 title: Muscles of Mastication
@@ -41,9 +41,11 @@ Dense quadrangular muscle with deep and superficial parts.
 >**Origin:** Inferior border of the Zygomatic arch (Zygomatic process of temporal bone) & Temporal process of the zygomatic bone
 >**Insertion:** Masseteric tuberosity of the mandibular ramus (inferior border of the angle of the mandible)
 >**Innervation:** CN V3 (Masseteric nerve)
+>****
 
 ![[Anatomy Masseter.jpeg]]![[Anatomy Masseter superficial.jpeg]]![[Anatomy Masseter Deep.jpeg]]
 
+****
 ## Lateral pterygoid ms.
 
 ![[assets/OS Lateral pterygoid.jpeg|500]] 
