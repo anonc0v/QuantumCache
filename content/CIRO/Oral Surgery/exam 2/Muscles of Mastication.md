@@ -1,6 +1,6 @@
 ---
 date created: 2024-11-18 12:34
-date modified: 2024-11-27 11:32
+date modified: 2024-11-27 12:17
 tags:
   - "#anatomy"
 title: Muscles of Mastication
@@ -27,14 +27,14 @@ title: Muscles of Mastication
 ![[assets/OS Medial Pterygoid.jpeg|400]]
 
 >[!note] Medial pterygoid ms. - Description
->|*Origin*| 
+>*Origin* 
 >	<br>-**Superficial part:** Tuberosity of maxilla, Pyramidal process of palatine bone 
 >	<br>-**Deep part:** Medial surface of lateral pterygoid plate of sphenoid bone
-> |*Insertion*| Medial surface of ramus and angle of mandible
-> |*Action*| 
-> 	**Bilateral contraction** - Elevates and protrudes mandible   <br>**Unilateral contraction** - Medial movement (rotation) of mandible|
-> |*Innervation*|  Medial pterygoid nerve (of mandibular nerve (CN V3)|
-> |*Blood supply*| Pterygoid branches (maxillary artery, buccal artery, facial artery)
+> <br>*Insertion* Medial surface of ramus and angle of mandible
+> <br>*Action*
+> 	<br>**Bilateral contraction** - Elevates and protrudes mandible   <br>**Unilateral contraction** - Medial movement (rotation) of mandible|
+> <br>*Innervation*  Medial pterygoid nerve (of mandibular nerve (CN V3)|
+> <br>*Blood supply* Pterygoid branches (maxillary artery, buccal artery, facial artery)
 ****
 ## Masseter:
 
