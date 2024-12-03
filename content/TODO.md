@@ -1,6 +1,6 @@
 ---
 date created: 2024-11-16 20:17
-date modified: 2024-11-21 23:05
+date modified: 2024-12-02 19:14
 title: TODO
 ---
 
@@ -10,4 +10,6 @@ title: TODO
 	- [ ] manejo odnotologico del paciente anticoagulado (odontogenesis)
 	- [ ] ![[AAPD_PulpTherapy.pdf]]
 	- [ ] https://github.com/marlonrichert/zsh-autocomplete
+	- [ ] buy portable fan for lab
+	- [ ] Set Discover as default $15 gift card 
 	- [ ] 

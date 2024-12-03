@@ -1,6 +1,6 @@
 ---
 date created: 2024-11-18 12:34
-date modified: 2024-11-27 13:36
+date modified: 2024-11-27 19:09
 tags:
   - "#anatomy"
 title: Muscles of Mastication
@@ -51,7 +51,7 @@ Dense quadrangular muscle with deep and superficial parts.
 ****
 ## Lateral pterygoid ms.
 
-![[assets/OS Lateral pterygoid.jpeg|500]] 
+q]] 
 
 
 >[!info] Lateral Pterygoid - *Origin & Insertion*
