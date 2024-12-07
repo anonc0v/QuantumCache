@@ -1,6 +1,6 @@
 ---
 date created: 2024-12-02 19:34
-date modified: 2024-12-06 20:54
+date modified: 2024-12-06 21:05
 ---
 # Skull
 # TMJ
@@ -81,6 +81,8 @@ TMJ formed by:
 4) Temporal Process
 
 ### Histology of the articular surfaces (of the mandibular condyle and fossa)
+
+![[ANAT TMJ Histology.png]]
 
 #### 4 Histologic Layers/zones
 from superficial to deep:
