@@ -8,8 +8,12 @@ Links:
 Exam: 2
 Exam Date: 
 date created: 2024-11-04 00:06
-date modified: 2024-11-11 20:19
+date modified: 2024-12-20 18:48
+title: Odontogenic Infections
+aliases:
+  - Action Items
 ---
+
 # Action Items
 - [ ] trigeminal ganglion 
 - [ ] injecting to posterior to ramus - parotid gland and ___ vessel >> hematoma & temporary ipsilateral sagging of face 

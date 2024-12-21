@@ -1,6 +1,6 @@
 ---
 date created: 2024-11-19 16:40
-date modified: 2024-11-29 23:21
+date modified: 2024-12-17 20:42
 title: OSCE Review
 aliases:
   - Systemic Conditions
@@ -62,4 +62,13 @@ Herring bond effect on radiograph (periapical/bitewing) - Film placed backwards
 # Pharmacology
 
 - NSAIDs - possible bleeding
+
+cthulu
+arabian nights
+greek mythology
+
+nutcracker
+
+
+jayne eyre
 

@@ -1,7 +1,11 @@
 ---
 date created: 2024-12-02 19:34
-date modified: 2024-12-06 21:05
+date modified: 2024-12-17 17:41
+title: Head
+aliases:
+  - Skull
 ---
+
 # Skull
 # TMJ
 - Type of joint: ginglymoarthrodial joint, which is a compound joint
@@ -96,3 +100,7 @@ from superficial to deep:
 4) calcified cartilage zone
 	1) contents: chondrocytes and chondroblasts; the dead chondrocytes turn into bone cells within the medullary cavity
 	2) the scaffolding provided by the extracellular matrix provides an active site for remodeling activity during endosteal bone growth
+
+ARTICULAR CARTILAGE
+- components: chondrocytes + intercellular matrix
+- chondrocytes produce the intercellular matrix, composed of collagen, proteoglycans, glycoproteins, and enzymes

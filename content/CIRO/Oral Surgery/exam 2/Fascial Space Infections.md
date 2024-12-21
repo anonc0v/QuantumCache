@@ -2,7 +2,7 @@
 aliases:
   - "Buccal Space "
 date created: 2024-11-04 00:06
-date modified: 2024-11-18 12:34
+date modified: 2024-12-20 18:49
 title: Fascial Space Infections
 ---
 
@@ -44,9 +44,10 @@ Posterior - Lateral pterygoid
 
 
 ![[assets/OS bones of skull sphenoid.jpg|500]]![[assets/OS Sphenoid.jpeg|500]]
-Lateral Pterygoid:
+
+# Lateral Pterygoid
+
 ![[assets/OS Lateral pterygoid.jpeg|500]] 
-### Lateral pterygoid ms.
 
 >[!info] Origin & Insertion 
 >**Superior head** originates from *infratemporal crest of the Greater wing of sphenoid*
