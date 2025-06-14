@@ -1,6 +1,6 @@
 ---
 date created: 2024-11-08 23:18
-date modified: 2025-04-19 20:04
+date modified: 2025-04-19 21:04
 title: LOCAL ANESTHETICS
 aliases:
   - Toxicity
