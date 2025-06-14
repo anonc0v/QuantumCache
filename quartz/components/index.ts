@@ -42,7 +42,7 @@ export {
   Spacer,
   TableOfContents,
   TableOfContents2,
-  ConditionalRender
+  ConditionalRender,
   Explorer,
   TagList,
   Graph,
