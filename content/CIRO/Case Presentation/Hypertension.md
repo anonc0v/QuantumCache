@@ -1,7 +1,10 @@
 ---
 Exam: 1
 date created: 2024-11-04 00:06
-date modified: 2024-11-11 20:19
+date modified: 2025-05-11 17:09
+title: Hypertension
+aliases:
+  - "Blood Pressure "
 ---
 
 

@@ -1,7 +1,9 @@
 ---
 date created: 2024-11-04 00:06
-date modified: 2024-11-11 20:19
+date modified: 2025-06-01 10:08
+title: ADEX Endodontics
 ---
+
 Teeth #8 and #14
 no use of electronic devices/phones/etc 
 do not loosen scre; only EXAMINERS can (but in lab you can do it)

@@ -2,7 +2,7 @@
 tags: 
 title: Adhesion
 date created: 2024-11-09 17:49
-date modified: 2024-11-18 11:08
+date modified: 2025-03-27 11:25
 aliases:
   - "Restoration of Endodontically treated teeth "
 ---
@@ -143,7 +143,7 @@ yellow Systemp onlay
 
 2.5mm for nonworking cusps = leave 
 3.0mm for working cusps = leave 
-<2.5mm for NWC or <3.0mm remove cusp 
+<2.5mm NWC = remove cusp or <3.0mm WC = remove cusp 
 
 with Onlays, it easier to polish, preserves tooth structures, margins are easily accessible and visible, 
 
@@ -171,8 +171,8 @@ Molar Hypomineralization (HM)
 - color
 	- between white, yellow and brown to large areas of surface breakup 
 	- Brown: greater susceptibility to fractures 
-	- if it is fractures it could be difficult to distinguish between enamel hypoplasia (edges of helath enamel lesion are rounded) 
-	- Dentin defect of systemic origin: 6 years molar;incisors (HIM); reduction 5-40% mineral
+	- If it is fractures it could be difficult to distinguish between enamel hypoplasia (edges of health enamel lesion are rounded) 
+	- Dentin defect of systemic origin: 6 years molar; incisors (HIM); reduction 5-40% mineral
 
 Mexico: 35.4% prevalence of HM
 
@@ -270,7 +270,7 @@ Biomechanical considerations for the restoration of endodontically treated teeth
 
 1) Etch coronal surface, 
 2) rinse, dry inside canal with paper tips; 
-3) - Use alcohol on the post, then silane (monobond plus)
+3) Use alcohol on the post, then silane (monobond plus)
 4) use primer
 5) 
 

@@ -2,7 +2,9 @@
 title: Exam notes
 tags: 
 date created: 2024-11-09 02:44
-date modified: 2024-11-11 20:19
+date modified: 2025-01-14 13:08
+aliases:
+  - "interocclusal contacts divided according to function:"
 ---
 
 TMJ & Occlusion

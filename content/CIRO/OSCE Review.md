@@ -1,6 +1,6 @@
 ---
 date created: 2024-11-19 16:40
-date modified: 2024-12-17 20:42
+date modified: 2024-12-20 19:54
 title: OSCE Review
 aliases:
   - Systemic Conditions
@@ -63,12 +63,8 @@ Herring bond effect on radiograph (periapical/bitewing) - Film placed backwards
 
 - NSAIDs - possible bleeding
 
-cthulu
-arabian nights
-greek mythology
+# Anatomy
 
-nutcracker
+## Tongue: Taste Buds
 
-
-jayne eyre
-
+![[Tongue_taste buds.jpg]]

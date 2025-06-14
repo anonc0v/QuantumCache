@@ -1,7 +1,11 @@
 ---
 date created: 2024-11-08 23:18
-date modified: 2024-11-11 20:19
+date modified: 2025-04-19 20:04
+title: LOCAL ANESTHETICS
+aliases:
+  - Toxicity
 ---
+
  # Amides
  Metabolism: Liver; P450 enzyme???
  ```
@@ -34,6 +38,51 @@ Benzocaine
 • Max lidocaine with vasoconstrictor= **7mg/kg**
 ```
 
+### The max recommended **epinephrine dose for cardiac patients** is:
+
+**0.04 mg (or 40 micrograms)** per appointment.
+
+This dose applies **regardless of the epinephrine concentration**, but the concentration affects **how much volume of anesthetic you can use** before reaching that dose.
+
+---
+
+### Let’s break it down by concentration:
+
+#### **1:100,000 epinephrine**
+
+This means **1 gram of epi in 100,000 mL**, or:
+
+- **0.01 mg/mL** of epinephrine
+    
+
+So, for 0.04 mg max:
+
+- 0.04 mg ÷ 0.01 mg/mL = **4 mL max**
+    
+- That’s about **2 carpules** (each carpule is 1.8 mL, so 3.6 mL total)
+    
+
+---
+
+#### **1:200,000 epinephrine**
+
+This means **0.005 mg/mL** of epinephrine
+
+So, for 0.04 mg max:
+
+- 0.04 mg ÷ 0.005 mg/mL = **8 mL max**
+    
+- That’s about **4 carpules** (7.2 mL)
+    
+
+---
+
+### Summary:
+
+| Epi Concentration | Epi per mL | Max Volume (for 0.04 mg) | Approx. Carpules |
+| ----------------- | ---------- | ------------------------ | ---------------- |
+| 1:100,000         | 0.01 mg    | 4 mL                     | ~2 carpules      |
+| 1:200,000         | 0.005 mg   | 8 mL                     | ~4 carpules      |
 # Needle Dimensions
 
 ```

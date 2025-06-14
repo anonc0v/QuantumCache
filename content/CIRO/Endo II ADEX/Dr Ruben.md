@@ -1,7 +1,11 @@
 ---
 date created: 2024-11-04 00:06
-date modified: 2024-11-11 20:19
+date modified: 2025-06-01 10:07
+title: Dr Ruben
+aliases:
+  - "Perforation "
 ---
+
 Cleaning and shaping
 -  cyclic fatigue 
 - torsional stress
