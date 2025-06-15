@@ -1,14 +1,18 @@
 ---
+Title: Strength and phase transformation of different zirconia types after chairside adjustment
+Year: 2024
+Authors: Awab Abdulmajeed, Taiseer A. Sulaiman, Aous A. Abdulmajeed, Timo O. Närhi
+Tags: 
+date created: 2025-06-14 22:17
+date modified: 2025-06-15 12:49
 title: Zirconia
-date created: 2025-03-29 14:42
-date modified: 2025-06-12 23:01
 aliases:
   - Phases of Zirconia
 ---
 
-Sulaiman et al., Zirconia restoration types, properties, tooth preparation design, and bonding. A narrative review
+Zotero PDF Link: [PDF](zotero://select/library/items/DDVIPVTI)
 
-Abdulmajeed, et al., Strength and phase transformation of different zirconia types after chairside adjustment
+
 
 # Phases of Zirconia
 - monoclinic - room temperature to 1170C
@@ -65,5 +69,16 @@ also considered a monolithic zirconia, but weaker than 3Y-zirconia due to its in
 - a phenomenon, where zirconia undergoes phase transformation from tetragonal to monoclinic phase when damage/trauma occurs.  This can occur during adjustment of indirect zirconia restorations before cementation to achieve proper proximal contacts, contours, and occlusion.
 - effect? enhances strength and fracture toughness that prevents crack propagation
 - How?  Monoclinic phase of zirconia takes up more volume than tetragonal phase, so a compression occurs around the crack as the tetragonal particles converts to monoclinic. 
+- Considerations
+	- The type of zirconia, due to differing yttria content, affects the strength of the material
+	- As the amount of yttria content increases, the percentage of cubic particles increases and that of tetragonal particles decreases.  
+	- cubic zirconia does not undergo phase transformation
+
+# Conclusions
+- standardized protocol has not been investigated
+- 1. Chairside adjustment with diamond instruments signicantly reduced the biaxial exural strength of zirconia and caused phase transformation depending on the yttria content of the zirconia.
+2. Given any test condition, as the yttria content increased, the strength of the zirconia decreased.
+3. Appropriate adjustment and finishing protocol for zirconias will cause less phase transformation than adjustments with a coarse diamond instrument alone.
+
 
 

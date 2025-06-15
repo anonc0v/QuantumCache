@@ -1,6 +1,6 @@
 ---
 date created: 2024-11-08 23:18
-date modified: 2025-04-19 21:04
+date modified: 2025-06-14 22:45
 title: LOCAL ANESTHETICS
 aliases:
   - Toxicity
@@ -8,13 +8,13 @@ aliases:
 
  # Amides
  Metabolism: Liver; P450 enzyme???
+ 
  ```
 Lidocaine (Xylocaine) - safest for children
 Bupivicaine (Marcaine) - NOT safe for children
 Mepivicaine (carbocaine, Polocaine) - causes least vasodilation
 Articaine (Septocaine) - has one ester chaine
 Prilocaine (Citanest) - methemglobinemia
-
 ```
 
 
