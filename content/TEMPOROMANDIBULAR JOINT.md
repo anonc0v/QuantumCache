@@ -1,6 +1,6 @@
 ---
 date created: 2025-01-14 13:10
-date modified: 2025-02-23 23:07
+date modified: 2025-06-15 13:46
 title: TEMPOROMANDIBULAR JOINT
 aliases:
   - Pain
