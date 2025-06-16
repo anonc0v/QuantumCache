@@ -1,7 +1,10 @@
 ---
+publish: true
 date created: 2024-11-04 00:06
-date modified: 2024-11-11 20:19
+date modified: 2025-06-15 19:13
+title: Alveoloplasty
 ---
+
 1. **Anesthesia:** Circumferential local infiltration; included sites are on either side of the flap on the residual ridge, 2 more sites towards in the vestibular area evenly spaced within the area in need of alveoloplasty
     
 2. **Incision:** Using blade #5, make an atraumatic incision through the mucosa (soft tissue lining) and periosteum (thin layer covering the bone) on the residual crest.  The incision must be wide enough to encompass the area of surgery in order to prevent tissue tearing and to allow enough access to the surgical site.

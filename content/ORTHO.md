@@ -1,6 +1,7 @@
 ---
+publish: true
 date created: 2025-01-13 10:19
-date modified: 2025-06-15 14:15
+date modified: 2025-06-15 19:13
 title: ORTHO
 aliases:
   - "Ortho Pictures "

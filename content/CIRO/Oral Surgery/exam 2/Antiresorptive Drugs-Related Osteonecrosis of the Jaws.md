@@ -1,4 +1,5 @@
 ---
+publish: true
 Status: 🟥🟨🟩
 Area: 
 Subject: 
@@ -11,7 +12,7 @@ aliases:
   - Action Items
 title: Antiresorptive Drugs-Related Osteonecrosis of the Jaws
 date created: 2024-11-04 00:06
-date modified: 2024-11-11 20:19
+date modified: 2025-06-15 19:13
 ---
 
 # Action Items

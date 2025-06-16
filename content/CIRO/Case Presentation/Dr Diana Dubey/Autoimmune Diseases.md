@@ -1,4 +1,5 @@
 ---
+publish: true
 Status: 🟥🟨🟩
 Area: 
 Subject: 
@@ -7,7 +8,7 @@ Links:
 Exam: 
 Exam Date: 
 date created: 2024-11-04 00:06
-date modified: 2024-11-18 11:35
+date modified: 2025-06-15 19:13
 title: Autoimmune Diseases
 aliases:
   - Action Items

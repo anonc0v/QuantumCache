@@ -1,6 +1,7 @@
 ---
+publish: true
 date created: 2024-11-08 23:18
-date modified: 2024-11-11 20:16
+date modified: 2025-06-15 19:13
 title: Guia
 aliases:
   - "Estar conjugations  #verbos  #website spanishdict"

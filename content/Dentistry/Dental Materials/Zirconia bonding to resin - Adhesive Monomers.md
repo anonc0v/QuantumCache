@@ -1,10 +1,11 @@
 ---
+publish: true
 Title: "Different surface treatments and adhesive monomers for zirconia-resin bonds: A systematic review and network meta-analysis"
 Year: 2024
 Authors: Xinyang Li, Shengjie Liang, Masanao Inokoshi, Shikai Zhao, Guang Hong, Chenmin Yao, Cui Huang
 Tags: 
 date created: 2025-06-15 13:35
-date modified: 2025-06-15 13:46
+date modified: 2025-06-15 19:13
 title: Zirconia bonding to resin - Adhesive Monomers
 ---
 

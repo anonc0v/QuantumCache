@@ -1,4 +1,5 @@
 ---
+publish: true
 Status: 🟥🟨🟩
 Area: Dentistry
 Subject: Periodontology
@@ -7,7 +8,7 @@ Links:
 Exam: 
 Exam Date: 
 date created: 2024-11-04 00:06
-date modified: 2024-11-18 11:11
+date modified: 2025-06-15 19:13
 title: Local Oral Chemotherapeutic Agents
 aliases:
   - Action Items

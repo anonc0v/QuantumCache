@@ -1,8 +1,11 @@
 ---
+publish: true
 tags: 
 title: Fases de tratamiento
 date created: 2024-11-10 00:16
-date modified: 2024-11-11 20:18
+date modified: 2025-06-15 19:13
+aliases:
+  - Plan de Tratamiento
 ---
 
 # Plan de Tratamiento

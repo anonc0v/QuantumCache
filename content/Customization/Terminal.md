@@ -1,8 +1,11 @@
 ---
+publish: true
 tags: 
 title: Terminal
 date created: 2024-11-11 11:35
-date modified: 2024-11-11 20:19
+date modified: 2025-06-15 19:13
+aliases:
+  - Remove Login Prompt in terminal/iterm
 ---
 
 - use iterm2

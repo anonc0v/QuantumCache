@@ -1,9 +1,10 @@
 ---
+publish: true
 title: Fase I compre
 tags:
   - faseI
 date created: 2024-11-09 19:51
-date modified: 2024-11-11 20:18
+date modified: 2025-06-15 19:13
 ---
 
 Hipertension y Diabetes

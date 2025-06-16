@@ -1,9 +1,11 @@
 ---
+publish: true
 tags: []
 aliases:
   - CSS Snippets
 date created: 2024-11-11 11:53
-date modified: 2024-11-11 20:19
+date modified: 2025-06-15 19:13
+title: Obsidian
 ---
 
 # CSS Snippets

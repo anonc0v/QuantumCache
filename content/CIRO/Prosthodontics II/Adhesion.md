@@ -1,8 +1,9 @@
 ---
+publish: true
 tags: 
 title: Adhesion
 date created: 2024-11-09 17:49
-date modified: 2025-03-27 11:25
+date modified: 2025-06-15 19:13
 aliases:
   - "Restoration of Endodontically treated teeth "
 ---

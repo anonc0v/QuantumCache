@@ -1,10 +1,12 @@
 ---
+publish: true
 tags: {}
 "title:": Frases
 Date Created: Nov 9th 2024, 2:09 am
 Date Modified: Nov 11th 2024, 1:23 pm
 date created: 2024-11-09 02:09
-date modified: 2024-11-11 13:23
+date modified: 2025-06-15 19:13
+title: Frases
 ---
 
 frases:

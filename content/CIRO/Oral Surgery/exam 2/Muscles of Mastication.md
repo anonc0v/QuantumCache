@@ -1,6 +1,7 @@
 ---
+publish: true
 date created: 2024-11-18 12:34
-date modified: 2025-02-02 22:53
+date modified: 2025-06-15 19:13
 tags:
   - "#anatomy"
 title: Muscles of Mastication

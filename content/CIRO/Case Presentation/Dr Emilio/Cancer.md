@@ -1,4 +1,5 @@
 ---
+publish: true
 Status: 🟥🟨🟩
 Area: Dentistry
 Subject: Case Presentation
@@ -8,8 +9,12 @@ Links:
 Exam: 3
 Exam Date: 
 date created: 2024-11-04 00:06
-date modified: 2024-11-11 20:19
+date modified: 2025-06-15 19:13
+title: Cancer
+aliases:
+  - Action Items
 ---
+
 # Action Items
 
 # Cancer 

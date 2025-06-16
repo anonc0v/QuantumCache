@@ -1,6 +1,7 @@
 ---
+publish: true
 date created: 2024-12-02 19:34
-date modified: 2025-02-11 13:12
+date modified: 2025-06-15 19:13
 title: Head
 aliases:
   - Skull

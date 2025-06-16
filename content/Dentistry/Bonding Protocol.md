@@ -1,9 +1,10 @@
 ---
+publish: true
 tags:
   - prostho/bonding
 title: Bonding Protocol
 date created: 2024-11-09 19:49
-date modified: 2024-11-14 10:56
+date modified: 2025-06-15 19:13
 aliases:
   - Fiber Post
 ---

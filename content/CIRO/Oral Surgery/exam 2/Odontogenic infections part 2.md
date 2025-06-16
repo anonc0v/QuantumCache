@@ -1,4 +1,5 @@
 ---
+publish: true
 Status: 🟥🟨🟩
 Area: 
 Subject: 
@@ -10,7 +11,8 @@ Lecturer:
 aliases:
   - Odontogenic Infections part 2
 date created: 2024-11-04 00:06
-date modified: 2024-11-11 20:19
+date modified: 2025-06-15 19:13
+title: Odontogenic infections part 2
 ---
 
 # Odontogenic Infections part 2

@@ -1,6 +1,7 @@
 ---
+publish: true
 date created: 2025-06-08 20:44
-date modified: 2025-06-15 14:15
+date modified: 2025-06-15 19:13
 title: Zirconia-Composite-Bonding
 aliases:
   - 🦷 Zirconia–Composite Bonding Notes (Provisional Restoration Using Panavia V5)

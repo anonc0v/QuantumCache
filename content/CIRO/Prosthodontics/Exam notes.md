@@ -1,8 +1,9 @@
 ---
+publish: true
 title: Exam notes
 tags: 
 date created: 2024-11-09 02:44
-date modified: 2025-01-14 13:08
+date modified: 2025-06-15 19:13
 aliases:
   - "interocclusal contacts divided according to function:"
 ---

@@ -1,10 +1,11 @@
 ---
+publish: true
 Title: High bonding strength between zirconia and composite resin based on combined surface treatment for dental restorations
 Year: 2020
 Authors: Rui Li, Chen Wang, Shi Qing Ma, Zi Hao Liu, Cheng Cheng Zang, Wen Yi Zhang, Ying Chun Sun
 Tags: 
 date created: 2025-06-15 12:49
-date modified: 2025-06-15 13:36
+date modified: 2025-06-15 19:13
 title: Zirconia bonding to resin - surface treatment
 ---
 
