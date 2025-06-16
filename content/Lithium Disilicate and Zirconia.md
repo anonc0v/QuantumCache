@@ -1,6 +1,6 @@
 ---
 date created: 2025-03-31 18:54
-date modified: 2025-06-15 13:46
+date modified: 2025-06-15 14:15
 title: Lithium Disilicate and Zirconia
 aliases:
   - Lithium Disilicate

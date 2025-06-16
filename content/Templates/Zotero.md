@@ -2,7 +2,7 @@
 Title: "{{title | escape}}"
 Year: {{date | format("YYYY")}}
 Authors: {{authors}}
-Tags: {% if allTags %}{{allTags}}{% endif %}
+Tags: {{hastags}}
 ---
 Zotero PDF Link: {{pdfZoteroLink}}
 Related:: {% for relation in relations | selectattr("citekey") %} [[{{relation.citekey}}]]{% if not loop.last %}, {% endif%} {% endfor %}
