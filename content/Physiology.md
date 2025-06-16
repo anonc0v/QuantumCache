@@ -1,7 +1,7 @@
 ---
 publish: true
 date created: 2025-05-11 17:09
-date modified: 2025-06-15 19:25
+date modified: 2025-06-15 19:31
 title: Physiology
 aliases:
   - Autonomic Nervous System
