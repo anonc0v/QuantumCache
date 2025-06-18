@@ -4,7 +4,7 @@ tags:
   - prostho/bonding
 title: Bonding Protocol
 date created: 2024-11-09 19:49
-date modified: 2025-06-17 18:42
+date modified: 2025-06-17 18:51
 aliases:
   - Fiber Post
 ---
@@ -78,13 +78,19 @@ Tooth:
 
 # Zirconia Cementation - DC/SC
 Crucial for bonding to Zirconia: *Sandblasted by the lab - indicate in instructions*
-1) Primer w/MDP to act as barrier against saliva before try-in (b/c cleaner is not available in MX)
-	1) the Ceramic Primer in Panavia V5 contains both MDP and Silane
+Try-in:
+1) Primer w/MDP on intaglio surface of crown to act as barrier against saliva before try-in (b/c cleaner is not available in MX)
 2) Isolate
 3) Try-in
+Crown:
 4) Clean with Alcohol to remove Phosphates from saliva that can interfere with bonding to Zirconia
-5) Primer w/MDP to achieve chemical bonding between Zirconia and resin cement; let sit for 60s
-6) Cementation - DC/SC
-- Tack cure- Buccal & Palatal 2-5s - remove excess
+5) Crown Primer w/MDP to achieve chemical bonding between Zirconia and resin cement; let sit for 60s
+Tooth:
+6) Tooth Primer
+7) Cementation - DC/SC
+- Tack cure- Buccal & Palatal 2-5s - remove excessit
 - Final Cure 40s
 
+# Cements:
+## Panavia V5
+- Ceramic Primer in Panavia V5 contains both MDP and Silane
