@@ -1,36 +1,37 @@
 ---
 publish: true
 date created: 2025-06-08 20:44
-date modified: 2025-06-15 19:13
+date modified: 2025-06-18 12:20
 title: Zirconia-Composite-Bonding
 aliases:
+  - 🦷  Zirconia–Composite Bonding Notes (Provisional Restoration Using Panavia V5)
   - 🦷 Zirconia–Composite Bonding Notes (Provisional Restoration Using Panavia V5)
 ---
 
-# 🦷 Zirconia–Composite Bonding Notes (Provisional Restoration Using Panavia V5)
+# 🦷  Zirconia–Composite Bonding Notes (Provisional Restoration Using Panavia V5)
 
-## 📌 Clinical Scenario
+##  :LiClipboardCopy: Clinical Scenario
 - Missing tooth **#7**
 - Adjacent teeth **#6 and #8** have **zirconia crowns**
 - Provisional pontic made of **bisacryl or composite resin**
 - Bonded temporarily to zirconia for **6-week temporization**
 
-## 🎯 Objective
+## :LiTarget: Objective
 To **securely attach** a resin pontic to **zirconia crowns** using a reliable bonding protocol that ensures:
 - Adequate strength for 6 weeks
 - Compatibility with **Panavia V5** system
 - Use of **Tooth & Ceramic Primer**
+ 
+## :LiList: Materials Involved
 
-## ⚙️ Materials Involved
-
-| Material | Role |
-|---------|------|
-| **Zirconia crowns (#6, #8)** | Abutment support for pontic |
-| **Composite pontic** (pre-cured or bisacryl) | Provisional restoration |
-| **Panavia V5** | Resin cement |
-| **Tooth & Ceramic Primer (Kuraray)** | MDP + Silane dual primer |
-| **Air abrasion (Al₂O₃)** | Surface roughening |
-| **Ribbond fiber** | Reinforcement across pontic |
+| Material                                     | Role                        |
+| -------------------------------------------- | --------------------------- |
+| **Zirconia crowns (#6, #8)**                 | Abutment support for pontic |
+| **Composite pontic** (pre-cured or bisacryl) | Provisional restoration     |
+| **Panavia V5**                               | Resin cement                |
+| **Tooth & Ceramic Primer (Kuraray)**         | MDP + Silane dual primer    |
+| **Air abrasion (Al₂O₃)**                     | Surface roughening          |
+| **Ribbond fiber**                            | Reinforcement across pontic |
 
 ## 🧪 Primer Chemistry Breakdown
 

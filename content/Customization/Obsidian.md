@@ -4,7 +4,7 @@ tags: []
 aliases:
   - CSS Snippets
 date created: 2024-11-11 11:53
-date modified: 2025-06-15 19:13
+date modified: 2025-06-17 18:51
 title: Obsidian
 ---
 
