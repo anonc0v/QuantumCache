@@ -2,9 +2,11 @@
 tags: []
 publish: true
 date created: Wednesday, June 18th 2025, 7:16:39 pm
-date modified: Tuesday, July 8th 2025, 11:28:44 pm
+date modified: Tuesday, July 8th 2025, 11:44:14 pm
 title: Unassorted notes
 ---
+$log_2$
+$2^3$
 
 INFANTIL CUESTIONARIO DE SALUD
 
