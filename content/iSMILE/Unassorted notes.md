@@ -1,7 +1,8 @@
 ---
+tags: []
 publish: true
-date created: 2024-11-24 11:50
-date modified: 2025-06-17 18:51
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Tuesday, July 8th 2025, 11:28:44 pm
 title: Unassorted notes
 ---
 

@@ -1,10 +1,10 @@
 ---
+tags: []
 publish: true
-date created: 2025-05-11 17:09
-date modified: 2025-06-17 18:51
-title: Physiology
-aliases:
-  - Autonomic Nervous System
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Tuesday, July 8th 2025, 11:09:02 pm
+title: Autonomic Nervous System
+aliases: [Autonomic Nervous System]
 ---
 
 Sources: Guyton & Hall

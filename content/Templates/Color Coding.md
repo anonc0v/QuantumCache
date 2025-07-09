@@ -1,7 +1,8 @@
 ---
+tags: []
 publish: true
-date created: 2025-06-15 12:40
-date modified: 2025-06-17 18:51
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Monday, July 7th 2025, 6:08:55 pm
 title: Color Coding
 ---
 

@@ -1,11 +1,10 @@
 ---
+tags: []
 publish: true
-date created: 2025-06-08 20:44
-date modified: 2025-06-18 12:20
-title: Zirconia-Composite-Bonding
-aliases:
-  - 🦷  Zirconia–Composite Bonding Notes (Provisional Restoration Using Panavia V5)
-  - 🦷 Zirconia–Composite Bonding Notes (Provisional Restoration Using Panavia V5)
+date created: Wednesday, June 18th 2025, 6:16:39 pm
+date modified: Monday, July 7th 2025, 6:29:29 pm
+title: 🦷  Zirconia–Composite Bonding Notes (Provisional Restoration Using Panavia V5)
+aliases: [🦷  Zirconia–Composite Bonding Notes (Provisional Restoration Using Panavia V5), 🦷 Zirconia–Composite Bonding Notes (Provisional Restoration Using Panavia V5)]
 ---
 
 # 🦷  Zirconia–Composite Bonding Notes (Provisional Restoration Using Panavia V5)

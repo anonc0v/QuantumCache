@@ -1,10 +1,10 @@
 ---
+tags: []
 publish: true
-date created: 2025-01-14 13:10
-date modified: 2025-06-17 18:51
-title: TEMPOROMANDIBULAR JOINT
-aliases:
-  - Pain
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Tuesday, July 8th 2025, 11:29:30 pm
+title: Pain
+aliases: [Pain]
 ---
 
 Class 1 Objectives

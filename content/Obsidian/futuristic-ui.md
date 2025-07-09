@@ -1,10 +1,9 @@
 ---
 publish: true
-date created: 2025-06-18 11:47
-date modified: 2025-06-18 12:13
-title: futuristic-ui
-aliases:
-  - 🧠 Futuristic UI Design Pack
+tags: []
+title: 🧠 Futuristic UI Design Pack
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Monday, July 7th 2025, 8:55:07 am
 ---
 
 # 🧠 Futuristic UI Design Pack
@@ -29,4 +28,5 @@ aliases:
   <img src="svg/cpu.svg" width="20" style="margin-right:10px;" />
   <strong>CPU STATUS:</strong> All cores operational. Temp normal.
 </div>
+
 

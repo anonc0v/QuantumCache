@@ -1,10 +1,10 @@
 ---
+tags: []
 publish: true
-date created: 2025-03-31 18:54
-date modified: 2025-06-17 18:51
-title: Lithium Disilicate and Zirconia
-aliases:
-  - Lithium Disilicate
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Tuesday, July 1st 2025, 7:09:55 pm
+title: Lithium Disilicate
+aliases: [Lithium Disilicate]
 ---
 
 # Lithium Disilicate
