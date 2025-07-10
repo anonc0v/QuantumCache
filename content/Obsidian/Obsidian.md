@@ -71,6 +71,9 @@ this will appear at the bottom and ur footnotes will be labeled with a number as
 > quote about anything 
 >  things stand out
 `---separate a whole section`
+wrap in $ to format into LATEX
+ - subscripts: $n_8$
+ - superscripts: $n^3$
 ---
 
 1 backtick - insert a line of code without "live-previewing"
