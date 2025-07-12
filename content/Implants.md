@@ -1,11 +1,11 @@
 ---
 publish: true
 tags: []
-title: Terms
+title: Implant Terminology
 date created: Wednesday, July 9th 2025, 10:04:20 am
-date modified: Thursday, July 10th 2025, 11:14:21 am
+date modified: Thursday, July 10th 2025, 11:22:50 am
 ---
-# Terms
+# Implant Terminology
 ## Osseointegration 
 - first described in 1952 by Branemark as direct contact between bone and implant (as opposed to soft tissue between the implant and bone)
 	- definition: "a process whereby clinically asymptomatic rigid fixation of alloplastic materials is achieved, and maintained, in bone during functional loading"
