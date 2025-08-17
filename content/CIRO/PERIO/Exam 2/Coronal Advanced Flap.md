@@ -3,16 +3,15 @@ publish: true
 Status: 🟥🟨🟩
 Area: 
 Subject: 
-tags: 
+tags: []
 Links: 
 Exam: 
 Exam Date: 
 Lecturer: 
-date created: 2024-11-04 00:06
-date modified: 2025-06-15 19:13
-title: Coronal Advanced Flap
-aliases:
-  - Action Items
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Wednesday, August 6th 2025, 8:32:33 am
+title: Action Items
+aliases: [Action Items]
 ---
 
 # Action Items

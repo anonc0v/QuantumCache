@@ -1,7 +1,8 @@
 ---
+tags: 
 publish: true
-date created: 2024-11-04 00:06
-date modified: 2025-06-15 19:13
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Wednesday, August 6th 2025, 8:27:24 am
 title: Gingival Grafts
 ---
 
@@ -74,7 +75,7 @@ Patient-related factors
 Operator-related factors 
 - surgical skills 
 
-Abraction
+Abfraction
 - must be ≤2mm if you want to restore with tissue graft (may trim/make smooth before placing graft)
 - if more than 2, need to restore before grafting because if you place graft, there'll be a dead space with no underlying blood supply, and the tissue will recede again in order to find a stable location 
 

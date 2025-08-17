@@ -1,10 +1,10 @@
 ---
+tags: []
 publish: true
-date created: 2024-11-04 00:06
-date modified: 2025-06-15 19:13
-title: Periodontal Biology
-aliases:
-  - PATHOGENESIS
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Wednesday, August 6th 2025, 8:29:29 am
+title: PATHOGENESIS
+aliases: [PATHOGENESIS]
 ---
 
 #perio
@@ -132,7 +132,7 @@ Stratified squamous epithelium differentiates into 3 types in the oral cavity:
 - covers the crest, the outer surface of the marginal gingiva and attached gingiva
 - stratified squamous keratinized epithlium
 	- does not have blood veessels
-	- 2mm of kreatinized tissues maintains teeth health -normal teeth/teeth with crowns/ with implants (needs more keratinized tissue)
+	- 2mm of keratinized tissues maintains teeth health -normal teeth/teeth with crowns/ with implants (needs more keratinized tissue)
 - Variations of keratinization
 	- palate - most keratinized
 	- gingiva

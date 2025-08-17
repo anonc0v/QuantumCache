@@ -3,7 +3,7 @@ publish: true
 tags: []
 title: Implant Terminology
 date created: Wednesday, July 9th 2025, 10:04:20 am
-date modified: Thursday, July 10th 2025, 11:22:50 am
+date modified: Tuesday, August 12th 2025, 8:12:30 am
 ---
 # Implant Terminology
 ## Osseointegration 
@@ -83,11 +83,11 @@ d) Alloplastic - synthetic bone substitute (.e.g, calcium phosphate, bioactive g
 6) easy to use
 7) cost-effective
 
-### Classification of Bone Graft based on effect on bone healing
-- osteogenic - ability of the graft to produce new bone; property found only in fresh autogenous bone and in bone marrow cells
-- osteoconduction - serves as a scaffold for bone healing, where there is ingrowth of neovasculature and infiltration of osteogenic precursor cells into the graft site.  
+### Classification of Bone Grafts based on effect on bone healing
+- osteogenic - ability of the graft to **produce new bone**; property found only in fresh autogenous bone and in bone marrow cells
+- osteoconduction - serves as a **scaffold** for bone healing, where there is ingrowth of neovasculature and infiltration of osteogenic precursor cells into the graft site.  
 	- found in cancellous autografts and allografts, demineralized bone matrix, HA, collagen, and calcium phosphate
-- osteoinductive - induces stem cells to differentiate into mature bone cells; property due to presence of bone growth factors within or subsequently applied to the graft material. Principle osteoinductive materials: bone morphogenic proteins, demineralized bone matrix.  Autograft and allograft also have some osteoinductive properties.
+- osteoinductive - **induces stem cells to differentiate** into mature bone cells; property due to presence of bone growth factors within or subsequently applied to the graft material. Principle osteoinductive materials: bone morphogenic proteins, demineralized bone matrix.  Autograft and allograft also have some osteoinductive properties.
 
 ## Guided bone regeneration
 - uses barrier membranes (e.g. collagen, PTFE (expanded polytetrafluorethylene)
@@ -103,4 +103,89 @@ d) Alloplastic - synthetic bone substitute (.e.g, calcium phosphate, bioactive g
 ## Sinus Augmentation
 - Maxillary sinus floor augmentation (MSFA)
 	- Lateral window technique
+		- most common
 	- crestal sinus lift or sinus bump
+		- insert grafting material through osteotomy 
+
+
+# Implant Components
+## cover screw/healing screw
+- occludes the connection of the implant.
+- used during two-stage procedure
+ ![[implant_cover screw.png|300]]
+
+# Implant Restorations
+## Loading Protocols
+1. Conventional loading
+	1. Placement of restoration after 3-6 months of healing.
+2. Immediate loading
+	1. Placement of a provisional restoration at the time of implant placement.
+3. Early loading
+	1. Prosthesis placed 2-3 weeks after implant placement.
+		1. less predictable due to placement during the [[Implants#Stability dip|stability dip]], during which there is lowest implant stability.
+4. Delayed loading
+	1. Prosthesis placed 6 to 12 months after implant placement.  
+		1. indications:
+			1. poor quality bone
+			2. primary stability not achieved during surgical placement
+![[implant_loading strategies.png]]
+## Abutments
+1. Standard Abutment - standard stock parts produced by the implant manufacturer
+2. Custom Abutment - custom designed for the patient
+![[implant_custom abutment.png|500]]
+
+![[implant_customabutment removed.png|500]]
+## Impression Procedures
+- Impressions can be taken at the implant level or the abutment level
+### Implant-level impressions
+- attaching a standardized implant-level *impression coping* directly to the implant and capturing that position in the impression
+- cast is produced by attaching an *implant analog* to the impression coping and then pouring
+
+> [!NOTE] Implant analog
+> standardized component that reproduces the implant platform and connection
+> importance: on the cast
+>  1) allows one to choose the appropriate standardized abutment to attach to the implant analog 
+>  2) design and fabricate a custom abutment using the cast 
+>  3) fabricate an implant-level prosthesis, which attaches directly to the implant
+### Abutment-level impressions
+- made intraorally after the abutment (standardized/custom) has been attached to the implant
+- impressions are similar to the implant-level impression, in that the shape, position, and marginal detail of the custom abutment is captured.
+
+### Engaging or Non-engaging components
+## Impression Techniques
+### Transfer/Closed-tray technique 
+- attach impression coping to the implant or abutment; copings remain attached after removal of the impression.
+- Copings are removed and inserted into the impression.
+- Analogs are attached to the copings before or after insertion (depending if taking an [[Implants#Implant-level impressions|implant-level impression]] or [[Implants#Abutment-level impressions|abutment-level impression]].
+![[implant_closedtray impression.png]]
+
+### Pick-up/open-tray technique
+- attach impression coping
+- the screws for the impression copings project through the impression tray and are loosened before impression removal.
+- the impression copings are removed with the impression
+- the analogs are connected and the cast poured.
+
+### Digital Impressions
+- must use *scanning abutments* or *scan bodies*, which are attached to the implant before scanning.
+![[implant_scan body.png|300]]
+### Implant Verification Jig (IVJ)
+- pick-up impression copings embedded in an acrylic framework and sectioned between implants
+- used to verify the accuracy of the master cast for implant restoration
+![[implant_verification jig.png|400]]
+
+# Functional Basis for Dental Implant Design
+
+
+## Guidelines
+
+### Implant Diameter
+- Implant diameter is secondary to prognosis, however, larger implant diameters had higher survival rates
+	- in implants with diameters of 3.0 to 5.5mm, a followup period of 5 to 15 years revealed a survival rate of 80.5% to 100%, respectively.
+	- Greater **Implant diameter** allows more force to transfer to bone.  Also, decreases stress at the bone-implant interface.  Smaller-diameter implants show increase stress at the bone-implant interface.  Most pronounced in implants with <4mm diameter.  Wider diameter implants are more resistant to fracture from occlusal overload, fatigue conditions, and during implant insertion into the implant site.  
+	- for every 1mm increase in implant diameter, ther was a 96.9% decrease in the probabiliyt of implant fracture.
+### Primary factors for Implant Survival
+- 1. well-designed surgical protocol
+- 2. ability to achieve primary stability
+- 3. oral hygiene maintenance, post and pre-surgical
+
+### Implant Length

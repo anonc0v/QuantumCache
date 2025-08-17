@@ -1,12 +1,10 @@
 ---
 publish: true
-tags:
-  - prostho/bonding
-title: Bonding Protocol
-date created: 2024-11-09 19:49
-date modified: 2025-06-17 18:51
-aliases:
-  - Fiber Post
+tags: [prostho/bonding]
+title: Fiber Post
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Tuesday, August 12th 2025, 8:20:47 pm
+aliases: [Fiber Post]
 ---
 
 # Fiber Post

@@ -1,10 +1,10 @@
 ---
+tags: []
 publish: true
-date created: 2024-11-04 00:06
-date modified: 2025-06-15 19:13
-title: OS
-aliases:
-  - Surgery Day
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Tuesday, August 12th 2025, 11:49:54 am
+title: Surgery Day
+aliases: [Surgery Day]
 ---
 
 #os/class  [[1. PROJECTS/daily/2024-02-23|2024-02-23]]

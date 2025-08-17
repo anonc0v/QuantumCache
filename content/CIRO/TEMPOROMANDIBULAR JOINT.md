@@ -2,7 +2,7 @@
 tags: []
 publish: true
 date created: Wednesday, June 18th 2025, 7:16:39 pm
-date modified: Tuesday, July 8th 2025, 11:29:30 pm
+date modified: Wednesday, August 6th 2025, 8:13:12 am
 title: Pain
 aliases: [Pain]
 ---
