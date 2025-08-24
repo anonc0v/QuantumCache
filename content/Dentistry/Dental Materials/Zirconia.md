@@ -1,14 +1,14 @@
 ---
+tags: []
 publish: true
 Title: Strength and phase transformation of different zirconia types after chairside adjustment
 Year: 2024
 Authors: Awab Abdulmajeed, Taiseer A. Sulaiman, Aous A. Abdulmajeed, Timo O. Närhi
 Tags: 
-date created: 2025-06-14 22:17
-date modified: 2025-06-15 19:13
-title: Zirconia
-aliases:
-  - Phases of Zirconia
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Tuesday, August 19th 2025, 5:29:57 pm
+title: Phases of Zirconia
+aliases: [Phases of Zirconia]
 ---
 
 Zotero PDF Link: [PDF](zotero://select/library/items/DDVIPVTI)
