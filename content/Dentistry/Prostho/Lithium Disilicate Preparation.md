@@ -3,7 +3,7 @@ publish: true
 tags: []
 title: Lithium Disilicate Preparation
 date created: Monday, July 7th 2025, 8:55:27 am
-date modified: Tuesday, July 8th 2025, 11:04:44 pm
+date modified: Tuesday, October 28th 2025, 11:09:04 am
 ---
 Posterior Prep Design For Lithium Disilicate
 

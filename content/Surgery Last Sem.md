@@ -3,7 +3,7 @@ publish: false
 tags: []
 title: Desinfeccion
 date created: Tuesday, August 12th 2025, 8:12:33 am
-date modified: Tuesday, August 19th 2025, 9:43:21 am
+date modified: Tuesday, August 26th 2025, 11:53:06 am
 ---
 Topics:
 Bone graft
@@ -158,3 +158,123 @@ study antibiotics :)
 gargle = boches? 
 hot beverages = none for 1 week
 
+# Day 3
+
+## Incision dieresis
+For surgery: #11 and 15C; #12 can be useful
+- Pen grasp
+
+source: Fragiskos D. Fragiskos (2007) oral surgery
+- Cosme Gay Escoda ....
+
+
+Langer Lines
+- healing lines; make it parallel to the lines for better healing
+
+Incision
+- La insicion se debe llevar a cabo de una sola y firme intencion. De ser inecesario, en todo momento la hoja de bisturi tendra que estar en contacto con el hueso
+- one straight incision
+- El diseno de la incision y el colgajo debe planearse de tal forma que se evite danar estructurans anatomicas fuera del plan quirurgico
+- mental nerve - branches will exit lateral and downwards from the mental foramen around premolar area
+- La extnesion de la incision debe ser adecuada, de tal manera que el campo operatorio sea facilment accesible. Sin crear tension o trauma durante la manipulacion.
+- **No releasing incisions on the palate, it will always be intrasulcular because you can easily cut nasopalatal artery/nerve or greater palatine artery and disrupt blood supply to your flap**
+- Le base del colgajo debnera ser mas amplia que el borde gingivla libre para asegurar su adecuada nutricion.
+- The base of the incision should be wider so as to provide enough blood supply to the flap; otherwise, the flap can become necrosed
+- El colgajo debe ser mas largo en sus margenes que el defecto oseo, para que al suturarase, sus margenes descansen sobre una superficie sana y asi prevenir una dehiscencia de la herida o su desgarre
+- picture of caldwell luc; hole in apical area; no need for bone graft since it will heal with secondary intention
+- Una vez levantado el colgajo debera manipularase de manera gentil sin estirar, tensionar o doblar ya que se podra comprometer su irrigacion provocando alteraciones en el proceso de cicatrizacion.
+	- managing soft tissues in a gentle manner will reduce inflammation and pain
+
+# Tipos de incision
+
+## Colgajo gingival
+- Intrasucular
+- Libera el tejido subgingival y la papilla interdentaria. Podra ser completado con una o dos descargas verticales.
+- *picture of upper maxillary anteriors with flap from canine to canine elevation*
+- Matress technique sutures
+- vicryl 4-0 or 5-0 for easy management; 
+- flap should use a sharp periosteal elevator
+
+## Colgajo triangular
+- Se obtiene mediante una incision sulcular unida a una incision oblicua llamada liberatriz
+- *picture of triangular flap*
+- do not make straight up and down releasing incision; should be diagonal / divergent
+
+## Colgajo Trapezoidal
+- incision sulcular con 2 liberatrices diagonles en sus extremos por lo menos 1 or 2 dientes posterior a campo quirurgico 
+- on the upper maxxilary, there'll be muscles - transverse/dilator canine muscle and ** muscle
+- scratch the muscle fibers to remove
+- ** picture of caldwell luc again**
+
+## Colgajo semilunar
+- sinonimos
+	- En Hojal
+	- De Partsch
+- do not sure Catgut; easier to use vicryl
+
+## Incision en Y
+- Incision lineal que se lleva a cabo en la linea media del paladar, que contiene 2 liberatrices generalmente para retiro..
+
+## Incision en X
+
+## Colgajo Pediculado
+- send root into sinus and there's a communication; just do this
+- but try to use a surgical canula to take it out
+- then prescribe antibiotics then painkillers and antihistaminic medication
+- *amoxicillin + clavulonic acid*
+- painkillers - whatever you want
+- antihistamine - ex: Loratidine; to prevent allergic reaction to this foreign body because there is respiratory mucosa that produces mucin in response to foreign bodies.
+
+If you have an upper first molar with RCT, be prepared to do a surgical extraction because it might be displaced into the root.
+panoramic picture of root displaced from the 1st maxillary first molar area all the way to the 3rd molar area (postero-lateral part of the sinus).
+- Mix saline and chlorhexidine
+- patient will be congested for 5-10 days
+
+## Diseccion
+- El despegamiento mucosoperiostico o mucoso debe realizarse de manera cuidadosa y atraumatica, manipulando los tejidos blandos con suavidad para no producir necrosis tisular, lo que inducira alteraciones de la cicatrizacion.
+- if you do not detach the periostium you'll have a lot of bleeding
+
+## Sutura
+- we use sutures to place drainage then suture to borders of wound
+- after 72 hours remove and clean
+
+apophysis pterygoides
+
+
+## Materiales para sutura
+- mayo needle holder and scissors
+- use 3-0/4-0 vicryl for sutures in oral cavity
+- not chromic catgut; harder to manipulate
+
+## Sutura
+- el grosor de la sutura se mide por un sistema numerico de 0, mientras mas 0 contenga, mas delgado sera su calibre
+
+## Sutura
+- nylon - for perio
+- silk or vicryl for oral surgery 
+- blue = silk/seda
+- brown - cat gut
+- blue
+- purple - vicryl; 90 days for vicryl to disappear
+
+Do not buy rounded or nontraumatic tissue because it's hard to put it through tissue
+
+## Suture tips
+
+- metzenbaum - not for cutting sutures; it's for cutting skin atraumatically
+
+## Tecnica de sutura
+- punto simple
+	- start in middle
+- punto cruzado
+	- presses wound into itself - into center of wound
+- punto colchonero horizontal
+- punto colchonero vertical
+- sutura continua
+	- ask assistant to pull string
+- Sutura continua anclada
+
+## Retiro de puntos
+
+
+simple  & Cross knot

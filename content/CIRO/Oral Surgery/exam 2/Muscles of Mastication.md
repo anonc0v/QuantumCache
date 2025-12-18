@@ -1,9 +1,8 @@
 ---
 publish: true
-date created: 2024-11-18 12:34
-date modified: 2025-06-15 19:13
-tags:
-  - "#anatomy"
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Tuesday, December 9th 2025, 10:16:56 am
+tags: ["anatomy"]
 title: Muscles of Mastication
 ---
 
@@ -33,26 +32,14 @@ function: **elevation** (anterior part) and **retrusion** (middle and posterior 
 >*Origin* 
 >	<br>-**Superficial part:** Tuberosity of maxilla, Pyramidal process of palatine bone 
 >	<br>-**Deep part:** Medial surface of lateral pterygoid plate of sphenoid bone
-> <br>*Insertion* Medial surface of ramus and angle of mandible
+>	
+> *Insertion* <br>Medial surface of ramus and angle of mandible
 > <br>*Action*
 > 	<br>**Bilateral contraction** - Elevates and protrudes mandible   <br>**Unilateral contraction** - mediotrusive movement
 > <br>*Innervation*  Medial pterygoid nerve (of mandibular nerve (CN V3)|
 > <br>*Blood supply* Pterygoid branches (maxillary artery, buccal artery, facial artery)
 ****
-## Masseter:
 
-Dense quadrangular muscle with deep and superficial parts.
-Function: primary: **elevation**; secondary: **protrusion**
-
->[!note] Masseter - *Origin & Insertion*
->**Origin:** Inferior border of the Zygomatic arch (Zygomatic process of temporal bone) & Temporal process of the zygomatic bone
->**Insertion:** Masseteric tuberosity of the mandibular ramus (inferior border of the angle of the mandible)
->**Innervation:** CN V3 (Masseteric nerve)
-****
-
-![[Anatomy Masseter.jpeg | 350]]![[Anatomy Masseter superficial.jpeg |350 ]]![[Anatomy Masseter Deep.jpeg | 350]]
-
-****
 ## Lateral pterygoid ms.
 
 action (inferior lateral pterygoid)
@@ -68,12 +55,24 @@ Inferior head inserts at **lateral surface of Lateral Pterygoid Plate** of *Sphe
 ****
 
 ![[assets/OS bones of skull sphenoid.jpg|500]]![[assets/OS Sphenoid.jpeg|500]]
+## Masseter:
+
+Dense quadrangular muscle with deep and superficial parts.
+Function: primary: **elevation**; secondary: **protrusion**
+
+>[!note] Masseter - *Origin & Insertion*
+>**Origin:** Inferior border of the Zygomatic arch (Zygomatic process of temporal bone) & Temporal process of the zygomatic bone
+>**Insertion:** Masseteric tuberosity of the mandibular ramus (inferior border of the angle of the mandible)
+>**Innervation:** CN V3 (Masseteric nerve)
+****
+
+![[Anatomy Masseter.jpeg | 350]]![[Anatomy Masseter superficial.jpeg |350 ]]![[Anatomy Masseter Deep.jpeg | 350]]
+
+****
 
 
 
 # Digastric muscles
-
-^4ab924
 
 - NOT considered muscle of mastication but important as well
 - function: depression; work with the infrahyoid and suprahyoid muscles to depress the mandible and elevate the hyoid bone during swallowing.

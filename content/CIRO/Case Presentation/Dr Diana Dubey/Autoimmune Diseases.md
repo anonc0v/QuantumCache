@@ -3,15 +3,14 @@ publish: true
 Status: 🟥🟨🟩
 Area: 
 Subject: 
-tags: 
+tags: []
 Links: 
 Exam: 
 Exam Date: 
-date created: 2024-11-04 00:06
-date modified: 2025-06-15 19:13
-title: Autoimmune Diseases
-aliases:
-  - Action Items
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Monday, September 1st 2025, 1:46:13 pm
+title: Action Items
+aliases: [Action Items]
 ---
 
 # Action Items

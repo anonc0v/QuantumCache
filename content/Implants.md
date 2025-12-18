@@ -3,7 +3,7 @@ publish: true
 tags: []
 title: Implant Terminology
 date created: Wednesday, July 9th 2025, 10:04:20 am
-date modified: Tuesday, August 12th 2025, 8:12:30 am
+date modified: Thursday, December 18th 2025, 2:27:36 pm
 ---
 # Implant Terminology
 ## Osseointegration 
@@ -189,3 +189,6 @@ d) Alloplastic - synthetic bone substitute (.e.g, calcium phosphate, bioactive g
 - 3. oral hygiene maintenance, post and pre-surgical
 
 ### Implant Length
+
+sasha yovanovich implant
+zuhr

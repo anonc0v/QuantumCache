@@ -1,11 +1,10 @@
 ---
 publish: false
-title: Ortho Exam
-tags: 
-date created: 2024-11-09 17:54
-date modified: 2025-06-15 19:31
-aliases:
-  - EXAM
+title: EXAM
+tags: []
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Thursday, October 30th 2025, 9:18:06 pm
+aliases: [EXAM]
 ---
 
 TMJ:

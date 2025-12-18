@@ -1,10 +1,10 @@
 ---
+tags: []
 publish: true
-date created: 2025-01-13 10:19
-date modified: 2025-06-15 19:40
-title: ORTHO
-aliases:
-  - "Ortho Pictures "
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Thursday, September 25th 2025, 9:30:51 am
+title: "Ortho Pictures "
+aliases: ["Ortho Pictures "]
 ---
 
 3 pillars diagnosis:

@@ -1,10 +1,10 @@
 ---
+tags: 
 publish: true
-date created: 2024-12-02 19:34
-date modified: 2025-06-17 18:51
-title: Head
-aliases:
-  - Skull
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Monday, September 1st 2025, 1:46:20 pm
+title: Skull
+aliases: [Skull]
 ---
 
 # Skull

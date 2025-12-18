@@ -1,10 +1,10 @@
 ---
+tags: 
 publish: true
-aliases:
-  - "Buccal Space "
-date created: 2024-11-04 00:06
-date modified: 2025-06-15 19:13
-title: Fascial Space Infections
+aliases: ["Buccal Space "]
+date created: Wednesday, June 18th 2025, 7:16:39 pm
+date modified: Monday, November 24th 2025, 10:46:58 pm
+title: "Buccal Space "
 ---
 
 # Buccal Space 
@@ -53,7 +53,8 @@ Posterior - Lateral pterygoid
 >[!info] Origin & Insertion 
 >**Superior head** originates from *infratemporal crest of the Greater wing of sphenoid*
 Inferior head inserts at **lateral surface of Lateral Pterygoid Plate** of Sphenoid bone
-Medial Pterygoid 
+
+# Medial Pterygoid 
 
 ![[assets/OS Medial Pterygoid.jpeg|400]]
 ![[assets/OS Temporalis.jpeg|400]]
